@@ -52,6 +52,8 @@ All filters dynamically update the dashboard KPIs and visualizations.
 
 ## Dashboard Preview
 
+### Executive KPI Dashboard
+
 ![Executive KPI Dashboard](Dashboard/executive-kpi-dashboard.png)
 
 ## Key Learning
