@@ -1,0 +1,601 @@
+Order ID,Customer ID,Order Date,State,Region,Segment,Ship Mode,Category,Sub-Category,Product Name,Quantity,Unit Price,Discount,Sales,Profit
+ORD-10168,CUST-8053,2023-01-03,Michigan,Central,Home Office,Standard Class,Office Supplies,Paper,Copy Paper,2,175.2,0.1,315.36,81.37
+ORD-10006,CUST-3912,2023-01-04,Michigan,Central,Consumer,Standard Class,Office Supplies,Storage,Desk Organizer,2,178.36,0.3,249.7,40.94
+ORD-10334,CUST-7778,2023-01-06,Michigan,Central,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,8,299.48,0.25,1796.88,277.83
+ORD-10038,CUST-6714,2023-01-08,Oregon,West,Corporate,Standard Class,Office Supplies,Paper,Premium Paper,8,150.52,0.25,903.12,171.83
+ORD-10171,CUST-5087,2023-01-08,Pennsylvania,East,Home Office,Standard Class,Technology,Copiers,Color Copier,2,656.71,0.0,1313.42,107.74
+ORD-10220,CUST-8438,2023-01-10,Arizona,West,Consumer,Standard Class,Furniture,Furnishings,Office Shelf,7,88.75,0.15,528.06,35.86
+ORD-10351,CUST-8230,2023-01-11,North Carolina,South,Consumer,First Class,Technology,Copiers,Office Copier,4,483.58,0.1,1740.89,204.68
+ORD-10189,CUST-9295,2023-01-12,North Carolina,South,Consumer,Second Class,Technology,Accessories,Wireless Mouse,4,560.2,0.1,2016.72,271.26
+ORD-10423,CUST-9289,2023-01-13,Oregon,West,Home Office,Standard Class,Office Supplies,Paper,Premium Paper,3,166.12,0.05,473.44,128.14
+ORD-10337,CUST-5488,2023-01-14,Florida,South,Corporate,Second Class,Technology,Phones,Mobile Device Plus,1,115.89,0.0,115.89,17.96
+ORD-10276,CUST-1684,2023-01-16,Illinois,Central,Home Office,Second Class,Technology,Phones,Mobile Device Plus,7,237.32,0.0,1661.24,196.36
+ORD-10360,CUST-6262,2023-01-18,Ohio,East,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,7,244.45,0.2,1368.92,231.46
+ORD-10473,CUST-7488,2023-01-20,Michigan,Central,Corporate,Standard Class,Technology,Accessories,Keyboard Pro,5,528.22,0.25,1980.83,331.94
+ORD-10405,CUST-5932,2023-01-21,Virginia,South,Consumer,Standard Class,Furniture,Tables,Work Desk,2,144.37,0.25,216.56,24.8
+ORD-10493,CUST-6129,2023-01-22,Texas,Central,Consumer,Second Class,Office Supplies,Art,Drawing Set,4,72.6,0.15,246.84,60.17
+ORD-10195,CUST-3121,2023-01-22,California,West,Consumer,Standard Class,Technology,Machines,Desktop Machine,1,360.77,0.2,288.62,38.98
+ORD-10575,CUST-1885,2023-01-23,Ohio,East,Consumer,Standard Class,Furniture,Tables,Conference Table,4,311.78,0.1,1122.41,147.63
+ORD-10461,CUST-8749,2023-01-23,Michigan,Central,Corporate,Standard Class,Technology,Machines,Laser Printer,3,239.1,0.0,717.3,126.9
+ORD-10302,CUST-1959,2023-01-25,Texas,Central,Consumer,Second Class,Office Supplies,Appliances,Coffee Maker,1,139.33,0.1,125.4,18.34
+ORD-10062,CUST-3093,2023-01-26,Minnesota,Central,Corporate,Standard Class,Technology,Accessories,Keyboard Pro,2,160.71,0.15,273.21,20.9
+ORD-10315,CUST-9846,2023-01-26,Arizona,West,Consumer,Standard Class,Technology,Accessories,USB-C Hub,6,127.51,0.2,612.05,111.67
+ORD-10444,CUST-6277,2023-01-26,New York,East,Consumer,Standard Class,Technology,Machines,Laser Printer,7,336.51,0.05,2237.79,527.43
+ORD-10417,CUST-3873,2023-01-27,Georgia,South,Home Office,Second Class,Furniture,Chairs,Office Chair,8,65.97,0.0,527.76,46.45
+ORD-10369,CUST-8693,2023-01-29,California,West,Home Office,Standard Class,Furniture,Furnishings,Desk Lamp,4,265.5,0.0,1062.0,63.34
+ORD-10527,CUST-7788,2023-01-29,Arizona,West,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,7,306.27,0.0,2143.89,47.2
+ORD-10383,CUST-1125,2023-01-30,Washington,West,Consumer,Standard Class,Technology,Machines,Desktop Machine,5,212.19,0.1,954.86,98.19
+ORD-10119,CUST-9261,2023-01-30,Michigan,Central,Consumer,Second Class,Furniture,Bookcases,Office Bookcase,5,71.71,0.15,304.77,33.14
+ORD-10223,CUST-2745,2023-02-05,Massachusetts,East,Consumer,Standard Class,Office Supplies,Storage,Storage Box,2,50.65,0.15,86.1,20.79
+ORD-10200,CUST-4929,2023-02-12,North Carolina,South,Corporate,Standard Class,Furniture,Furnishings,Desk Lamp,2,314.93,0.2,503.89,137.23
+ORD-10404,CUST-3460,2023-02-13,New York,East,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,2,163.6,0.25,245.4,45.71
+ORD-10394,CUST-1238,2023-02-13,Massachusetts,East,Consumer,First Class,Furniture,Chairs,Ergonomic Chair,2,67.15,0.0,134.3,15.94
+ORD-10373,CUST-2557,2023-02-19,California,West,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,6,132.25,0.05,753.82,141.91
+ORD-10439,CUST-4946,2023-02-23,Michigan,Central,Home Office,Standard Class,Furniture,Tables,Conference Table,2,161.81,0.15,275.08,37.42
+ORD-10332,CUST-6176,2023-02-24,Texas,Central,Consumer,Second Class,Technology,Phones,Mobile Device Plus,4,122.59,0.3,343.25,52.4
+ORD-10330,CUST-7708,2023-02-24,Washington,West,Consumer,First Class,Furniture,Chairs,Executive Chair,4,113.44,0.15,385.7,46.46
+ORD-10202,CUST-8165,2023-02-28,Michigan,Central,Consumer,Standard Class,Office Supplies,Binders,Document Binder,4,155.69,0.05,591.62,85.24
+ORD-10397,CUST-8855,2023-03-01,Minnesota,Central,Consumer,Same Day,Furniture,Tables,Work Desk,3,340.82,0.0,1022.46,21.8
+ORD-10549,CUST-6083,2023-03-04,Minnesota,Central,Home Office,Standard Class,Furniture,Bookcases,Wood Bookcase,5,70.87,0.3,248.04,30.06
+ORD-10372,CUST-4741,2023-03-08,Washington,West,Consumer,Same Day,Office Supplies,Envelopes,Business Envelopes,6,151.09,0.25,679.9,112.51
+ORD-10148,CUST-3000,2023-03-09,New York,East,Home Office,Standard Class,Technology,Machines,Office Printer,3,268.88,0.3,564.65,80.44
+ORD-10284,CUST-6274,2023-03-11,Virginia,South,Home Office,First Class,Technology,Phones,Mobile Device Plus,7,306.49,0.25,1609.07,315.1
+ORD-10546,CUST-3421,2023-03-12,Massachusetts,East,Corporate,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,6,33.93,0.05,193.4,19.65
+ORD-10197,CUST-6957,2023-03-13,Georgia,South,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,8,58.05,0.15,394.74,40.66
+ORD-10370,CUST-7885,2023-03-14,Minnesota,Central,Home Office,Standard Class,Technology,Copiers,Color Copier,7,680.57,0.3,3334.79,659.66
+ORD-10277,CUST-6997,2023-03-17,Texas,Central,Consumer,Standard Class,Office Supplies,Art,Drawing Set,6,10.47,0.3,43.97,7.4
+ORD-10435,CUST-5513,2023-03-22,Georgia,South,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,8,199.9,0.2,1279.36,190.26
+ORD-10183,CUST-4378,2023-03-23,North Carolina,South,Corporate,Standard Class,Technology,Machines,Desktop Machine,4,152.75,0.3,427.7,101.44
+ORD-10484,CUST-3877,2023-03-24,Arizona,West,Corporate,Second Class,Furniture,Tables,Work Desk,5,369.43,0.15,1570.08,203.05
+ORD-10180,CUST-6998,2023-03-25,Michigan,Central,Corporate,First Class,Office Supplies,Envelopes,Mailing Envelopes,2,78.57,0.1,141.43,25.51
+ORD-10395,CUST-5291,2023-03-26,New York,East,Consumer,First Class,Furniture,Chairs,Ergonomic Chair,2,232.58,0.0,465.16,34.14
+ORD-10505,CUST-6131,2023-03-27,Pennsylvania,East,Corporate,Standard Class,Technology,Copiers,Color Copier,1,330.59,0.1,297.53,45.64
+ORD-10066,CUST-1122,2023-03-28,Illinois,Central,Consumer,Standard Class,Technology,Machines,Desktop Machine,5,450.12,0.25,1687.95,199.63
+ORD-10467,CUST-8130,2023-03-29,Virginia,South,Corporate,Standard Class,Technology,Machines,Laser Printer,5,333.98,0.3,1168.93,222.67
+ORD-10007,CUST-2316,2023-03-31,Michigan,Central,Consumer,Standard Class,Technology,Phones,Smartphone X,8,476.91,0.0,3815.28,990.22
+ORD-10079,CUST-1357,2023-03-31,Florida,South,Consumer,First Class,Office Supplies,Envelopes,Mailing Envelopes,1,162.37,0.15,138.01,23.09
+ORD-10252,CUST-7767,2023-04-01,New York,East,Home Office,Standard Class,Furniture,Tables,Office Table,5,379.3,0.25,1422.38,136.78
+ORD-10117,CUST-2117,2023-04-03,Ohio,East,Consumer,Standard Class,Office Supplies,Storage,Desk Organizer,1,19.75,0.3,13.82,1.08
+ORD-10253,CUST-3386,2023-04-06,Minnesota,Central,Consumer,Second Class,Office Supplies,Binders,Document Binder,6,21.96,0.15,112.0,23.02
+ORD-10545,CUST-1847,2023-04-07,Virginia,South,Home Office,Same Day,Technology,Copiers,Office Copier,3,659.55,0.15,1681.85,248.98
+ORD-10597,CUST-3688,2023-04-11,Minnesota,Central,Home Office,First Class,Office Supplies,Envelopes,Mailing Envelopes,8,127.59,0.15,867.61,194.74
+ORD-10295,CUST-4035,2023-04-11,Virginia,South,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,7,23.21,0.0,162.47,23.6
+ORD-10137,CUST-7594,2023-04-12,Massachusetts,East,Home Office,Standard Class,Office Supplies,Art,Drawing Set,1,114.36,0.1,102.92,15.41
+ORD-10093,CUST-2169,2023-04-17,Arizona,West,Consumer,First Class,Technology,Phones,Smartphone X,1,613.76,0.2,491.01,41.52
+ORD-10070,CUST-8536,2023-04-18,Ohio,East,Consumer,Second Class,Technology,Machines,Desktop Machine,3,327.09,0.25,735.95,116.9
+ORD-10172,CUST-7379,2023-04-19,Minnesota,Central,Consumer,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,3,89.45,0.2,214.68,55.77
+ORD-10301,CUST-9374,2023-04-24,Oregon,West,Consumer,Second Class,Furniture,Furnishings,Office Shelf,1,464.44,0.0,464.44,56.39
+ORD-10230,CUST-9961,2023-04-25,Texas,Central,Corporate,Standard Class,Technology,Copiers,Office Copier,5,264.42,0.1,1189.89,266.78
+ORD-10064,CUST-5412,2023-04-26,North Carolina,South,Corporate,Second Class,Office Supplies,Binders,Premium Binder,4,175.93,0.0,703.72,107.74
+ORD-10361,CUST-4592,2023-04-26,Ohio,East,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,1,133.24,0.0,133.24,25.75
+ORD-10530,CUST-9892,2023-04-28,Ohio,East,Corporate,Standard Class,Technology,Copiers,Color Copier,3,287.05,0.3,602.81,118.59
+ORD-10273,CUST-4446,2023-04-28,North Carolina,South,Corporate,Second Class,Technology,Machines,Office Printer,5,577.12,0.0,2885.6,630.71
+ORD-10359,CUST-7971,2023-04-29,Arizona,West,Consumer,Standard Class,Office Supplies,Art,Drawing Set,2,36.48,0.05,69.31,8.18
+ORD-10487,CUST-9378,2023-05-04,Ohio,East,Consumer,Standard Class,Office Supplies,Binders,Document Binder,2,132.37,0.05,251.5,42.49
+ORD-10356,CUST-5430,2023-05-04,California,West,Corporate,Standard Class,Furniture,Chairs,Office Chair,5,87.9,0.2,351.6,23.43
+ORD-10275,CUST-4939,2023-05-04,Virginia,South,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,8,154.11,0.0,1232.88,252.07
+ORD-10497,CUST-3872,2023-05-06,Georgia,South,Corporate,Standard Class,Technology,Machines,Office Printer,5,360.87,0.0,1804.35,310.47
+ORD-10386,CUST-6228,2023-05-07,Ohio,East,Home Office,First Class,Furniture,Tables,Office Table,7,496.44,0.05,3301.33,372.13
+ORD-10551,CUST-4446,2023-05-13,Illinois,Central,Corporate,Standard Class,Office Supplies,Paper,Copy Paper,3,18.66,0.05,53.18,8.96
+ORD-10363,CUST-9466,2023-05-19,Ohio,East,Corporate,Standard Class,Technology,Phones,Smartphone X,6,372.01,0.05,2120.46,470.86
+ORD-10178,CUST-2336,2023-05-22,Washington,West,Consumer,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,1,22.67,0.3,15.87,4.49
+ORD-10188,CUST-3379,2023-05-22,Virginia,South,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,5,44.24,0.05,210.14,26.74
+ORD-10016,CUST-6792,2023-05-24,Illinois,Central,Consumer,Standard Class,Office Supplies,Art,Drawing Set,7,64.45,0.3,315.8,71.72
+ORD-10169,CUST-6092,2023-05-24,Washington,West,Consumer,First Class,Office Supplies,Storage,Desk Organizer,3,40.82,0.2,97.97,13.75
+ORD-10280,CUST-3185,2023-05-26,Massachusetts,East,Corporate,Standard Class,Furniture,Tables,Conference Table,6,186.14,0.05,1061.0,68.31
+ORD-10350,CUST-3289,2023-05-26,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,4,165.44,0.3,463.23,98.98
+ORD-10428,CUST-9146,2023-05-28,Texas,Central,Consumer,First Class,Office Supplies,Appliances,Air Purifier,5,153.58,0.3,537.53,118.85
+ORD-10471,CUST-5766,2023-06-05,Michigan,Central,Consumer,Second Class,Furniture,Furnishings,Office Shelf,2,443.01,0.0,886.02,109.36
+ORD-10095,CUST-2342,2023-06-10,Arizona,West,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,7,249.09,0.2,1394.9,214.48
+ORD-10167,CUST-1094,2023-06-10,Minnesota,Central,Corporate,Standard Class,Office Supplies,Art,Office Art Kit,1,96.7,0.15,82.2,14.33
+ORD-10049,CUST-1902,2023-06-16,Virginia,South,Consumer,Standard Class,Furniture,Tables,Conference Table,8,265.16,0.0,2121.28,326.07
+ORD-10213,CUST-7238,2023-06-17,Virginia,South,Consumer,Standard Class,Technology,Accessories,Wireless Mouse,4,129.55,0.1,466.38,65.63
+ORD-10512,CUST-4381,2023-06-19,Florida,South,Consumer,First Class,Furniture,Bookcases,Wood Bookcase,5,208.67,0.0,1043.35,92.25
+ORD-10103,CUST-1731,2023-06-19,Georgia,South,Consumer,Same Day,Office Supplies,Art,Drawing Set,3,116.13,0.15,296.13,40.59
+ORD-10578,CUST-7959,2023-06-21,Minnesota,Central,Home Office,Second Class,Furniture,Bookcases,Wood Bookcase,8,317.28,0.3,1776.77,224.34
+ORD-10567,CUST-6662,2023-06-21,Massachusetts,East,Consumer,Standard Class,Technology,Copiers,Color Copier,5,669.21,0.2,2676.84,367.76
+ORD-10150,CUST-3696,2023-06-22,Illinois,Central,Corporate,First Class,Technology,Accessories,Keyboard Pro,6,278.03,0.2,1334.54,174.24
+ORD-10286,CUST-4523,2023-06-25,Michigan,Central,Home Office,First Class,Furniture,Furnishings,Office Shelf,7,253.14,0.0,1771.98,248.76
+ORD-10105,CUST-3434,2023-06-25,Texas,Central,Consumer,Second Class,Office Supplies,Binders,Premium Binder,1,45.59,0.2,36.47,7.36
+ORD-10055,CUST-5972,2023-06-27,Oregon,West,Home Office,Standard Class,Technology,Phones,Business Phone Pro,2,103.96,0.05,197.52,35.43
+ORD-10456,CUST-9169,2023-06-30,California,West,Home Office,Standard Class,Office Supplies,Paper,Copy Paper,2,14.17,0.3,19.84,3.5
+ORD-10149,CUST-3573,2023-07-01,Texas,Central,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,3,243.29,0.0,729.87,131.82
+ORD-10507,CUST-7660,2023-07-03,Massachusetts,East,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,5,442.1,0.2,1768.4,94.03
+ORD-10096,CUST-7923,2023-07-09,North Carolina,South,Home Office,Standard Class,Office Supplies,Art,Drawing Set,4,50.61,0.15,172.07,41.08
+ORD-10421,CUST-5643,2023-07-12,New York,East,Home Office,Second Class,Furniture,Chairs,Ergonomic Chair,4,84.59,0.05,321.44,40.26
+ORD-10212,CUST-2688,2023-07-13,Virginia,South,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,6,89.33,0.0,535.98,107.74
+ORD-10509,CUST-7286,2023-07-14,Pennsylvania,East,Corporate,Standard Class,Office Supplies,Paper,Premium Paper,4,42.21,0.0,168.84,30.59
+ORD-10450,CUST-2338,2023-07-14,Arizona,West,Consumer,Second Class,Office Supplies,Envelopes,Mailing Envelopes,4,17.95,0.1,64.62,15.33
+ORD-10574,CUST-1040,2023-07-15,Oregon,West,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,3,84.32,0.0,252.96,22.38
+ORD-10107,CUST-8727,2023-07-16,North Carolina,South,Consumer,First Class,Technology,Phones,Business Phone Pro,7,223.79,0.15,1331.55,314.81
+ORD-10326,CUST-4655,2023-07-16,Illinois,Central,Corporate,Standard Class,Technology,Copiers,Office Copier,6,593.22,0.05,3381.35,549.84
+ORD-10495,CUST-3541,2023-07-19,Minnesota,Central,Consumer,Second Class,Technology,Copiers,Color Copier,8,502.09,0.2,3213.38,357.78
+ORD-10307,CUST-8991,2023-07-19,Illinois,Central,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,4,167.69,0.15,570.15,60.74
+ORD-10378,CUST-7323,2023-07-20,Virginia,South,Corporate,Second Class,Office Supplies,Appliances,Coffee Maker,4,169.61,0.0,678.44,126.63
+ORD-10072,CUST-6705,2023-07-20,Georgia,South,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,1,461.62,0.0,461.62,54.46
+ORD-10571,CUST-9049,2023-07-22,Florida,South,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,2,99.76,0.25,149.64,15.46
+ORD-10475,CUST-6629,2023-07-24,Washington,West,Consumer,Second Class,Office Supplies,Art,Drawing Set,5,74.37,0.0,371.85,64.08
+ORD-10029,CUST-3368,2023-07-28,Virginia,South,Corporate,Second Class,Technology,Copiers,Color Copier,3,436.21,0.25,981.47,142.22
+ORD-10583,CUST-2815,2023-07-28,Texas,Central,Consumer,Same Day,Technology,Accessories,Laptop Stand,8,358.45,0.0,2867.6,484.6
+ORD-10015,CUST-6282,2023-07-29,California,West,Corporate,Same Day,Furniture,Chairs,Executive Chair,3,226.3,0.2,543.12,59.74
+ORD-10532,CUST-2626,2023-07-30,Virginia,South,Home Office,Second Class,Office Supplies,Storage,Storage Box,4,157.11,0.3,439.91,92.63
+ORD-10080,CUST-5594,2023-07-31,New York,East,Corporate,Standard Class,Technology,Machines,Desktop Machine,6,640.61,0.1,3459.29,668.63
+ORD-10238,CUST-6549,2023-07-31,Pennsylvania,East,Corporate,Standard Class,Office Supplies,Binders,Document Binder,7,137.68,0.2,771.01,161.8
+ORD-10498,CUST-4246,2023-07-31,Minnesota,Central,Consumer,Standard Class,Office Supplies,Art,Drawing Set,8,103.54,0.05,786.9,143.13
+ORD-10559,CUST-7464,2023-08-01,Michigan,Central,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,5,116.5,0.0,582.5,81.95
+ORD-10389,CUST-4618,2023-08-02,Washington,West,Home Office,Standard Class,Furniture,Furnishings,Office Shelf,4,404.38,0.3,1132.26,78.43
+ORD-10396,CUST-8742,2023-08-06,Illinois,Central,Home Office,Standard Class,Office Supplies,Binders,Document Binder,7,112.43,0.2,629.61,120.13
+ORD-10198,CUST-7436,2023-08-06,Ohio,East,Consumer,Standard Class,Furniture,Furnishings,Office Shelf,8,390.62,0.0,3124.96,466.05
+ORD-10517,CUST-6925,2023-08-11,Arizona,West,Consumer,Second Class,Technology,Machines,Desktop Machine,2,142.73,0.15,242.64,46.29
+ORD-10480,CUST-9862,2023-08-13,Michigan,Central,Consumer,Standard Class,Office Supplies,Art,Drawing Set,6,86.74,0.05,494.42,116.84
+ORD-10384,CUST-3584,2023-08-15,Illinois,Central,Corporate,Standard Class,Furniture,Tables,Work Desk,8,304.92,0.15,2073.46,207.37
+ORD-10382,CUST-7497,2023-08-16,Texas,Central,Consumer,First Class,Furniture,Tables,Office Table,6,231.08,0.1,1247.83,75.18
+ORD-10122,CUST-8243,2023-08-17,Oregon,West,Home Office,Second Class,Office Supplies,Appliances,Coffee Maker,3,124.33,0.1,335.69,61.1
+ORD-10251,CUST-6915,2023-08-18,Oregon,West,Home Office,Standard Class,Technology,Accessories,Laptop Stand,3,525.52,0.05,1497.73,219.61
+ORD-10250,CUST-5560,2023-08-19,Massachusetts,East,Consumer,First Class,Technology,Machines,Desktop Machine,3,530.66,0.05,1512.38,362.26
+ORD-10463,CUST-4750,2023-08-19,Arizona,West,Home Office,First Class,Office Supplies,Appliances,Air Purifier,2,77.14,0.1,138.85,31.47
+ORD-10222,CUST-7138,2023-08-20,Pennsylvania,East,Home Office,Standard Class,Technology,Phones,Business Phone Pro,5,192.44,0.2,769.76,64.7
+ORD-10236,CUST-8949,2023-08-21,Massachusetts,East,Consumer,Standard Class,Office Supplies,Art,Drawing Set,8,41.3,0.25,247.8,55.41
+ORD-10529,CUST-7534,2023-08-22,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,7,117.32,0.05,780.18,166.16
+ORD-10579,CUST-3331,2023-08-25,Michigan,Central,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,5,175.19,0.1,788.36,105.77
+ORD-10402,CUST-3268,2023-08-26,Oregon,West,Home Office,Standard Class,Technology,Copiers,Color Copier,1,209.26,0.3,146.48,27.34
+ORD-10196,CUST-3259,2023-08-27,Washington,West,Consumer,Second Class,Office Supplies,Appliances,Air Purifier,3,141.87,0.0,425.61,66.37
+ORD-10153,CUST-6432,2023-08-27,Virginia,South,Consumer,First Class,Furniture,Furnishings,Office Shelf,7,350.61,0.1,2208.84,252.62
+ORD-10474,CUST-2819,2023-08-27,Washington,West,Home Office,Same Day,Technology,Copiers,Color Copier,1,433.63,0.0,433.63,27.16
+ORD-10078,CUST-7653,2023-09-02,Texas,Central,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,4,46.74,0.3,130.87,8.48
+ORD-10496,CUST-5945,2023-09-03,Virginia,South,Consumer,First Class,Office Supplies,Storage,Storage Box,5,19.65,0.2,78.6,17.32
+ORD-10194,CUST-2840,2023-09-04,Minnesota,Central,Corporate,Second Class,Office Supplies,Storage,Storage Box,6,36.72,0.15,187.27,37.44
+ORD-10466,CUST-3811,2023-09-04,Illinois,Central,Consumer,First Class,Furniture,Furnishings,Office Shelf,1,427.43,0.05,406.06,69.89
+ORD-10268,CUST-8759,2023-09-06,Oregon,West,Corporate,Standard Class,Technology,Phones,Business Phone Pro,7,643.56,0.25,3378.69,472.34
+ORD-10077,CUST-6810,2023-09-07,California,West,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,3,127.59,0.15,325.35,30.21
+ORD-10468,CUST-9893,2023-09-08,North Carolina,South,Consumer,Same Day,Technology,Phones,Mobile Device Plus,7,514.76,0.2,2882.66,607.49
+ORD-10050,CUST-5257,2023-09-11,Ohio,East,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,8,67.71,0.25,406.26,73.29
+ORD-10443,CUST-5539,2023-09-14,California,West,Consumer,Same Day,Technology,Accessories,Keyboard Pro,6,513.29,0.2,2463.79,425.73
+ORD-10465,CUST-6545,2023-09-15,Pennsylvania,East,Home Office,Second Class,Furniture,Furnishings,Office Shelf,1,206.28,0.2,165.02,5.95
+ORD-10385,CUST-7474,2023-09-17,Illinois,Central,Corporate,Standard Class,Office Supplies,Envelopes,Business Envelopes,2,138.04,0.1,248.47,31.44
+ORD-10554,CUST-2368,2023-09-17,Washington,West,Corporate,Standard Class,Furniture,Chairs,Ergonomic Chair,5,196.16,0.15,833.68,100.34
+ORD-10525,CUST-2017,2023-09-17,Arizona,West,Consumer,Second Class,Office Supplies,Storage,Storage Box,5,137.94,0.05,655.22,119.99
+ORD-10187,CUST-5432,2023-09-22,North Carolina,South,Consumer,Second Class,Office Supplies,Storage,Desk Organizer,8,29.25,0.15,198.9,39.83
+ORD-10488,CUST-3576,2023-09-24,Georgia,South,Consumer,Standard Class,Technology,Phones,Smartphone X,5,370.97,0.15,1576.62,201.39
+ORD-10522,CUST-3442,2023-09-26,Massachusetts,East,Consumer,First Class,Technology,Accessories,Keyboard Pro,8,103.26,0.15,702.17,139.34
+ORD-10294,CUST-2838,2023-09-26,New York,East,Consumer,Second Class,Technology,Accessories,Wireless Mouse,6,654.57,0.25,2945.56,613.38
+ORD-10086,CUST-6501,2023-10-03,Virginia,South,Corporate,First Class,Furniture,Chairs,Ergonomic Chair,8,346.87,0.0,2774.96,407.2
+ORD-10298,CUST-7852,2023-10-04,Massachusetts,East,Corporate,Standard Class,Office Supplies,Storage,Storage Box,2,177.15,0.1,318.87,85.69
+ORD-10031,CUST-5398,2023-10-05,Texas,Central,Consumer,Second Class,Technology,Copiers,Color Copier,1,457.13,0.2,365.7,35.18
+ORD-10580,CUST-4685,2023-10-08,Pennsylvania,East,Home Office,Same Day,Furniture,Chairs,Ergonomic Chair,2,486.79,0.05,924.9,160.78
+ORD-10157,CUST-3190,2023-10-08,Georgia,South,Consumer,First Class,Technology,Copiers,Color Copier,5,322.06,0.05,1529.78,335.16
+ORD-10521,CUST-4921,2023-10-09,North Carolina,South,Consumer,Standard Class,Office Supplies,Binders,Document Binder,7,109.84,0.05,730.44,168.82
+ORD-10118,CUST-8535,2023-10-16,Michigan,Central,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,5,23.74,0.0,118.7,18.08
+ORD-10599,CUST-8690,2023-10-18,California,West,Consumer,Standard Class,Technology,Copiers,Color Copier,6,234.24,0.05,1335.17,236.75
+ORD-10142,CUST-1246,2023-10-19,North Carolina,South,Consumer,First Class,Office Supplies,Storage,File Cabinet,5,23.5,0.05,111.62,20.83
+ORD-10400,CUST-7180,2023-10-25,Virginia,South,Consumer,Standard Class,Technology,Accessories,Wireless Mouse,2,456.46,0.15,775.98,184.01
+ORD-10564,CUST-7105,2023-10-27,California,West,Consumer,Second Class,Office Supplies,Storage,File Cabinet,2,47.76,0.2,76.42,15.2
+ORD-10415,CUST-7886,2023-11-01,New York,East,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,2,8.5,0.1,15.3,3.62
+ORD-10098,CUST-7277,2023-11-02,Georgia,South,Corporate,Standard Class,Furniture,Chairs,Ergonomic Chair,8,245.0,0.0,1960.0,136.18
+ORD-10296,CUST-6324,2023-11-02,Illinois,Central,Consumer,Standard Class,Technology,Phones,Business Phone Pro,7,536.05,0.25,2814.26,473.55
+ORD-10523,CUST-6715,2023-11-03,Texas,Central,Consumer,Standard Class,Technology,Accessories,Laptop Stand,2,415.19,0.1,747.34,103.39
+ORD-10044,CUST-9446,2023-11-05,Virginia,South,Consumer,First Class,Furniture,Furnishings,Desk Lamp,1,298.34,0.1,268.51,12.9
+ORD-10306,CUST-1705,2023-11-06,Washington,West,Home Office,Same Day,Technology,Copiers,Office Copier,3,186.9,0.25,420.52,79.24
+ORD-10247,CUST-7128,2023-11-07,Texas,Central,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,1,373.91,0.3,261.74,21.12
+ORD-10445,CUST-6219,2023-11-08,New York,East,Home Office,First Class,Furniture,Bookcases,Wood Bookcase,4,429.19,0.15,1459.25,209.26
+ORD-10437,CUST-6890,2023-11-08,Washington,West,Corporate,Standard Class,Technology,Copiers,Color Copier,2,404.9,0.05,769.31,84.47
+ORD-10355,CUST-1656,2023-11-12,Massachusetts,East,Corporate,Second Class,Technology,Accessories,Laptop Stand,4,236.12,0.25,708.36,182.85
+ORD-10028,CUST-8910,2023-11-12,Massachusetts,East,Consumer,Second Class,Technology,Phones,Mobile Device Plus,2,86.12,0.05,163.63,32.31
+ORD-10208,CUST-8928,2023-11-13,Minnesota,Central,Home Office,Standard Class,Technology,Accessories,Wireless Mouse,7,154.92,0.0,1084.44,236.63
+ORD-10114,CUST-1089,2023-11-15,New York,East,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,8,443.59,0.15,3016.41,570.13
+ORD-10184,CUST-5004,2023-11-17,Michigan,Central,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,7,30.32,0.2,169.79,26.75
+ORD-10266,CUST-4046,2023-11-17,California,West,Home Office,Standard Class,Technology,Phones,Business Phone Pro,4,592.45,0.1,2132.82,178.52
+ORD-10289,CUST-2236,2023-11-18,Ohio,East,Consumer,First Class,Office Supplies,Envelopes,Mailing Envelopes,1,173.86,0.1,156.47,34.32
+ORD-10065,CUST-5917,2023-11-24,New York,East,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,6,283.25,0.1,1529.55,209.2
+ORD-10362,CUST-9634,2023-11-29,North Carolina,South,Home Office,Standard Class,Furniture,Chairs,Office Chair,5,93.12,0.2,372.48,48.65
+ORD-10047,CUST-8054,2023-12-02,Washington,West,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,4,297.54,0.2,952.13,82.07
+ORD-10163,CUST-4772,2023-12-03,Minnesota,Central,Consumer,Standard Class,Technology,Machines,Office Printer,2,170.81,0.05,324.54,58.77
+ORD-10424,CUST-7726,2023-12-05,Washington,West,Corporate,Standard Class,Office Supplies,Art,Drawing Set,4,127.12,0.3,355.94,78.24
+ORD-10422,CUST-7346,2023-12-06,Virginia,South,Corporate,Standard Class,Office Supplies,Art,Drawing Set,2,38.86,0.0,77.72,9.13
+ORD-10110,CUST-8084,2023-12-12,Virginia,South,Consumer,First Class,Office Supplies,Art,Drawing Set,1,54.5,0.1,49.05,11.5
+ORD-10256,CUST-1311,2023-12-13,Virginia,South,Consumer,Standard Class,Technology,Copiers,Office Copier,6,255.6,0.3,1073.52,176.84
+ORD-10418,CUST-1353,2023-12-13,Illinois,Central,Consumer,Standard Class,Furniture,Chairs,Executive Chair,8,367.52,0.0,2940.16,268.92
+ORD-10318,CUST-9363,2023-12-19,Pennsylvania,East,Consumer,Standard Class,Furniture,Tables,Conference Table,5,58.12,0.25,217.95,16.22
+ORD-10170,CUST-9344,2023-12-20,California,West,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,3,352.96,0.3,741.22,80.09
+ORD-10336,CUST-3823,2023-12-22,Texas,Central,Consumer,Second Class,Furniture,Bookcases,Wood Bookcase,2,282.04,0.2,451.26,84.08
+ORD-10500,CUST-8794,2023-12-27,Arizona,West,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,5,147.21,0.0,736.05,107.39
+ORD-10388,CUST-2796,2023-12-28,Washington,West,Corporate,Standard Class,Technology,Copiers,Office Copier,8,115.91,0.05,880.92,154.36
+ORD-10569,CUST-5683,2024-01-01,Oregon,West,Corporate,Second Class,Technology,Machines,Laser Printer,4,597.32,0.25,1791.96,246.26
+ORD-10139,CUST-3382,2024-01-01,North Carolina,South,Corporate,First Class,Office Supplies,Appliances,Air Purifier,4,82.2,0.2,263.04,58.97
+ORD-10547,CUST-2065,2024-01-02,Massachusetts,East,Corporate,Same Day,Office Supplies,Paper,Premium Paper,7,115.4,0.15,686.63,115.43
+ORD-10186,CUST-3952,2024-01-02,Illinois,Central,Corporate,Standard Class,Technology,Machines,Desktop Machine,2,551.76,0.15,937.99,176.58
+ORD-10263,CUST-4755,2024-01-03,Oregon,West,Corporate,Second Class,Furniture,Tables,Conference Table,2,181.76,0.3,254.46,20.5
+ORD-10392,CUST-7610,2024-01-05,Texas,Central,Home Office,Standard Class,Furniture,Tables,Conference Table,4,141.76,0.05,538.69,87.99
+ORD-10399,CUST-8145,2024-01-08,Illinois,Central,Consumer,Standard Class,Technology,Copiers,Office Copier,5,635.4,0.15,2700.45,558.24
+ORD-10419,CUST-3331,2024-01-09,Georgia,South,Consumer,First Class,Technology,Machines,Laser Printer,6,253.15,0.0,1518.9,285.42
+ORD-10568,CUST-9870,2024-01-13,Oregon,West,Corporate,Second Class,Technology,Accessories,USB-C Hub,7,557.05,0.25,2924.51,248.93
+ORD-10136,CUST-1788,2024-01-14,Florida,South,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,6,273.33,0.25,1229.99,180.9
+ORD-10346,CUST-9682,2024-01-14,New York,East,Consumer,Same Day,Office Supplies,Appliances,Coffee Maker,6,112.61,0.25,506.74,86.45
+ORD-10349,CUST-4564,2024-01-15,Minnesota,Central,Consumer,Standard Class,Furniture,Tables,Work Desk,7,118.71,0.3,581.68,95.74
+ORD-10489,CUST-6688,2024-01-16,California,West,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,8,104.21,0.3,583.58,173.88
+ORD-10297,CUST-7472,2024-01-17,Minnesota,Central,Corporate,Standard Class,Office Supplies,Storage,Desk Organizer,6,112.65,0.0,675.9,127.78
+ORD-10068,CUST-6086,2024-01-18,California,West,Home Office,Second Class,Technology,Copiers,Office Copier,6,108.27,0.1,584.66,102.81
+ORD-10269,CUST-6453,2024-01-20,Minnesota,Central,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,8,175.54,0.1,1263.89,210.6
+ORD-10323,CUST-3073,2024-01-20,Oregon,West,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,3,258.57,0.05,736.92,100.33
+ORD-10299,CUST-2983,2024-01-21,Minnesota,Central,Home Office,Standard Class,Technology,Machines,Office Printer,3,103.21,0.05,294.15,46.31
+ORD-10407,CUST-9258,2024-01-23,Massachusetts,East,Corporate,Standard Class,Technology,Phones,Mobile Device Plus,1,609.02,0.25,456.76,122.32
+ORD-10566,CUST-1496,2024-01-24,Pennsylvania,East,Consumer,First Class,Furniture,Bookcases,Wood Bookcase,3,417.75,0.1,1127.92,96.96
+ORD-10511,CUST-8208,2024-01-24,Georgia,South,Corporate,Standard Class,Furniture,Chairs,Ergonomic Chair,5,303.42,0.15,1289.54,97.14
+ORD-10278,CUST-7082,2024-01-24,Texas,Central,Consumer,Standard Class,Furniture,Furnishings,Office Shelf,5,123.01,0.05,584.3,66.09
+ORD-10125,CUST-4641,2024-01-26,New York,East,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,4,172.3,0.0,689.2,68.92
+ORD-10565,CUST-9629,2024-01-26,Texas,Central,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,1,102.88,0.3,72.02,10.27
+ORD-10146,CUST-7274,2024-01-26,Georgia,South,Consumer,First Class,Furniture,Tables,Office Table,4,325.46,0.15,1106.56,72.32
+ORD-10502,CUST-9479,2024-01-27,Washington,West,Consumer,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,7,112.11,0.25,588.58,121.58
+ORD-10448,CUST-1721,2024-01-31,Pennsylvania,East,Corporate,First Class,Technology,Phones,Mobile Device Plus,3,190.68,0.0,572.04,75.89
+ORD-10340,CUST-3349,2024-02-03,Florida,South,Corporate,First Class,Office Supplies,Binders,Document Binder,3,55.21,0.2,132.5,33.51
+ORD-10533,CUST-4447,2024-02-05,Washington,West,Corporate,Standard Class,Furniture,Tables,Office Table,7,147.39,0.15,876.97,121.1
+ORD-10343,CUST-1157,2024-02-07,Washington,West,Consumer,Standard Class,Technology,Accessories,USB-C Hub,8,84.96,0.25,509.76,73.3
+ORD-10020,CUST-9864,2024-02-09,Ohio,East,Home Office,Standard Class,Office Supplies,Appliances,Air Purifier,4,28.16,0.15,95.74,16.49
+ORD-10001,CUST-7906,2024-02-10,Michigan,Central,Consumer,Standard Class,Technology,Machines,Desktop Machine,6,646.19,0.0,3877.14,767.74
+ORD-10115,CUST-6545,2024-02-11,Virginia,South,Consumer,Standard Class,Technology,Machines,Desktop Machine,8,290.25,0.2,1857.6,277.93
+ORD-10032,CUST-6363,2024-02-17,New York,East,Corporate,Second Class,Office Supplies,Paper,Copy Paper,2,106.63,0.3,149.28,24.67
+ORD-10124,CUST-1982,2024-02-20,California,West,Consumer,Second Class,Furniture,Bookcases,Wood Bookcase,4,486.91,0.0,1947.64,292.09
+ORD-10025,CUST-5660,2024-02-21,Minnesota,Central,Consumer,Standard Class,Technology,Machines,Desktop Machine,5,625.35,0.25,2345.06,519.68
+ORD-10056,CUST-1412,2024-02-23,California,West,Consumer,Second Class,Technology,Machines,Desktop Machine,6,259.98,0.3,1091.92,179.82
+ORD-10308,CUST-1832,2024-02-24,Florida,South,Corporate,Second Class,Office Supplies,Paper,Copy Paper,4,179.77,0.3,503.36,89.22
+ORD-10240,CUST-1554,2024-02-28,Florida,South,Consumer,Second Class,Furniture,Tables,Conference Table,4,176.36,0.2,564.35,62.14
+ORD-10131,CUST-8732,2024-03-02,Texas,Central,Home Office,Same Day,Furniture,Furnishings,Office Shelf,8,271.42,0.25,1628.52,194.61
+ORD-10141,CUST-6015,2024-03-02,Minnesota,Central,Corporate,Second Class,Technology,Machines,Office Printer,4,314.12,0.3,879.54,157.17
+ORD-10108,CUST-9103,2024-03-04,Arizona,West,Consumer,Standard Class,Furniture,Chairs,Executive Chair,2,387.11,0.0,774.22,95.59
+ORD-10293,CUST-9440,2024-03-07,Minnesota,Central,Consumer,Second Class,Technology,Machines,Laser Printer,3,640.51,0.25,1441.15,263.23
+ORD-10021,CUST-2456,2024-03-08,Michigan,Central,Home Office,First Class,Technology,Accessories,Wireless Mouse,7,191.58,0.2,1072.85,217.15
+ORD-10174,CUST-9511,2024-03-09,Ohio,East,Consumer,Standard Class,Office Supplies,Art,Drawing Set,8,69.51,0.25,417.06,80.78
+ORD-10262,CUST-1155,2024-03-11,Minnesota,Central,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,8,319.81,0.1,2302.63,407.47
+ORD-10260,CUST-4246,2024-03-12,Minnesota,Central,Corporate,Standard Class,Furniture,Tables,Office Table,6,96.98,0.25,436.41,42.38
+ORD-10083,CUST-1717,2024-03-12,North Carolina,South,Consumer,Standard Class,Technology,Accessories,Wireless Mouse,2,431.81,0.0,863.62,146.71
+ORD-10112,CUST-7839,2024-03-14,New York,East,Corporate,Second Class,Furniture,Tables,Office Table,3,403.89,0.1,1090.5,136.47
+ORD-10121,CUST-3796,2024-03-19,Washington,West,Corporate,Standard Class,Technology,Accessories,Wireless Mouse,7,207.89,0.1,1309.71,170.0
+ORD-10097,CUST-6117,2024-03-19,Massachusetts,East,Consumer,First Class,Furniture,Bookcases,Office Bookcase,1,394.62,0.0,394.62,36.76
+ORD-10140,CUST-6582,2024-03-19,Florida,South,Consumer,Second Class,Office Supplies,Storage,Desk Organizer,2,179.05,0.05,340.2,75.06
+ORD-10039,CUST-7893,2024-03-20,Texas,Central,Corporate,Standard Class,Furniture,Chairs,Ergonomic Chair,6,143.16,0.1,773.06,43.16
+ORD-10248,CUST-9639,2024-03-23,Arizona,West,Consumer,First Class,Technology,Phones,Smartphone X,7,167.85,0.1,1057.46,209.29
+ORD-10261,CUST-1966,2024-03-28,Massachusetts,East,Home Office,Second Class,Technology,Accessories,Keyboard Pro,1,578.93,0.25,434.2,86.53
+ORD-10316,CUST-1184,2024-04-01,Minnesota,Central,Consumer,Second Class,Office Supplies,Envelopes,Business Envelopes,8,70.21,0.0,561.68,109.62
+ORD-10476,CUST-9177,2024-04-07,Massachusetts,East,Home Office,Standard Class,Furniture,Bookcases,Wood Bookcase,8,405.54,0.2,2595.46,309.75
+ORD-10582,CUST-8665,2024-04-09,New York,East,Home Office,Standard Class,Technology,Machines,Desktop Machine,3,168.58,0.05,480.45,69.36
+ORD-10352,CUST-7896,2024-04-10,North Carolina,South,Consumer,Standard Class,Office Supplies,Storage,Storage Box,2,115.32,0.1,207.58,46.94
+ORD-10550,CUST-9958,2024-04-10,Massachusetts,East,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,2,177.72,0.3,248.81,54.66
+ORD-10010,CUST-1424,2024-04-11,Illinois,Central,Corporate,Standard Class,Technology,Copiers,Office Copier,2,132.87,0.3,186.02,35.65
+ORD-10237,CUST-6846,2024-04-14,Minnesota,Central,Consumer,Standard Class,Technology,Machines,Laser Printer,8,276.2,0.2,1767.68,94.05
+ORD-10265,CUST-7685,2024-04-15,Oregon,West,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,1,113.46,0.15,96.44,21.09
+ORD-10432,CUST-1272,2024-04-20,New York,East,Consumer,Standard Class,Furniture,Tables,Conference Table,6,177.39,0.05,1011.12,60.62
+ORD-10452,CUST-1007,2024-04-21,Texas,Central,Home Office,Second Class,Furniture,Bookcases,Office Bookcase,5,267.89,0.25,1004.59,97.67
+ORD-10270,CUST-5353,2024-04-21,Illinois,Central,Home Office,Second Class,Office Supplies,Paper,Copy Paper,7,9.1,0.15,54.14,8.66
+ORD-10229,CUST-3804,2024-04-24,Oregon,West,Consumer,Standard Class,Office Supplies,Storage,Desk Organizer,1,138.19,0.2,110.55,21.85
+ORD-10483,CUST-5116,2024-04-25,New York,East,Consumer,Same Day,Office Supplies,Storage,File Cabinet,3,42.83,0.0,128.49,27.62
+ORD-10408,CUST-1148,2024-04-25,Oregon,West,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,7,127.48,0.2,713.89,117.33
+ORD-10329,CUST-2531,2024-04-29,Florida,South,Consumer,Standard Class,Furniture,Tables,Office Table,5,239.11,0.05,1135.77,171.31
+ORD-10535,CUST-9141,2024-04-30,Illinois,Central,Home Office,Same Day,Office Supplies,Appliances,Air Purifier,3,86.97,0.25,195.68,42.98
+ORD-10282,CUST-7811,2024-05-05,Pennsylvania,East,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,3,438.92,0.0,1316.76,83.58
+ORD-10254,CUST-2944,2024-05-08,Ohio,East,Corporate,Standard Class,Office Supplies,Art,Drawing Set,7,107.84,0.3,528.42,106.61
+ORD-10085,CUST-3716,2024-05-11,Oregon,West,Corporate,Second Class,Technology,Copiers,Color Copier,2,345.35,0.3,483.49,69.33
+ORD-10387,CUST-2093,2024-05-11,Florida,South,Home Office,Standard Class,Furniture,Tables,Conference Table,1,442.65,0.2,354.12,42.38
+ORD-10205,CUST-6631,2024-05-14,Minnesota,Central,Consumer,Standard Class,Furniture,Chairs,Ergonomic Chair,7,420.47,0.05,2796.13,313.33
+ORD-10541,CUST-6797,2024-05-14,Ohio,East,Consumer,Second Class,Technology,Phones,Business Phone Pro,2,294.42,0.05,559.4,72.9
+ORD-10557,CUST-6071,2024-05-20,Illinois,Central,Corporate,Standard Class,Furniture,Tables,Conference Table,6,442.31,0.3,1857.7,127.93
+ORD-10591,CUST-8019,2024-05-21,Florida,South,Consumer,Second Class,Office Supplies,Art,Drawing Set,3,73.88,0.2,177.31,48.35
+ORD-10226,CUST-4894,2024-05-25,Texas,Central,Consumer,Standard Class,Furniture,Chairs,Executive Chair,3,289.32,0.2,694.37,129.46
+ORD-10430,CUST-8750,2024-05-26,North Carolina,South,Consumer,Standard Class,Technology,Accessories,Keyboard Pro,8,689.62,0.0,5516.96,894.46
+ORD-10218,CUST-3108,2024-05-27,Oregon,West,Corporate,Second Class,Furniture,Tables,Conference Table,1,444.44,0.1,400.0,6.12
+ORD-10224,CUST-7906,2024-06-03,North Carolina,South,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,2,133.76,0.1,240.77,20.33
+ORD-10543,CUST-8453,2024-06-03,Pennsylvania,East,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,3,179.89,0.25,404.75,56.95
+ORD-10427,CUST-9393,2024-06-06,Ohio,East,Home Office,Standard Class,Furniture,Chairs,Office Chair,7,333.51,0.2,1867.66,83.63
+ORD-10440,CUST-3694,2024-06-07,Illinois,Central,Consumer,Same Day,Office Supplies,Binders,Premium Binder,8,33.34,0.15,226.71,44.81
+ORD-10225,CUST-6276,2024-06-08,California,West,Home Office,Second Class,Furniture,Bookcases,Office Bookcase,8,47.77,0.05,363.05,35.16
+ORD-10002,CUST-1119,2024-06-08,Washington,West,Home Office,Standard Class,Office Supplies,Art,Office Art Kit,5,114.56,0.2,458.24,82.4
+ORD-10264,CUST-7303,2024-06-09,Arizona,West,Consumer,Standard Class,Office Supplies,Binders,Premium Binder,4,83.42,0.2,266.94,51.12
+ORD-10335,CUST-4988,2024-06-10,Minnesota,Central,Home Office,Standard Class,Office Supplies,Binders,Document Binder,6,53.72,0.0,322.32,60.97
+ORD-10585,CUST-3895,2024-06-10,Georgia,South,Corporate,Second Class,Office Supplies,Art,Office Art Kit,6,121.26,0.25,545.67,134.93
+ORD-10510,CUST-8835,2024-06-10,North Carolina,South,Home Office,Standard Class,Technology,Accessories,Wireless Mouse,7,498.87,0.3,2444.46,381.52
+ORD-10311,CUST-5998,2024-06-16,Massachusetts,East,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,3,82.61,0.1,223.05,53.41
+ORD-10434,CUST-8449,2024-06-16,North Carolina,South,Consumer,Standard Class,Office Supplies,Appliances,Air Purifier,7,60.04,0.25,315.21,58.9
+ORD-10069,CUST-5781,2024-06-18,Washington,West,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,5,327.65,0.2,1310.6,197.09
+ORD-10460,CUST-5286,2024-06-26,Oregon,West,Home Office,Standard Class,Furniture,Chairs,Ergonomic Chair,2,478.55,0.15,813.54,102.86
+ORD-10161,CUST-1416,2024-07-02,New York,East,Consumer,Standard Class,Furniture,Tables,Office Table,3,170.53,0.15,434.85,23.07
+ORD-10129,CUST-3600,2024-07-05,Massachusetts,East,Corporate,Standard Class,Office Supplies,Paper,Copy Paper,7,132.93,0.15,790.93,219.46
+ORD-10272,CUST-9033,2024-07-07,Georgia,South,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,1,384.0,0.05,364.8,58.76
+ORD-10053,CUST-6734,2024-07-12,California,West,Home Office,Second Class,Furniture,Bookcases,Office Bookcase,6,203.59,0.3,855.08,78.37
+ORD-10217,CUST-1155,2024-07-13,Massachusetts,East,Corporate,Standard Class,Office Supplies,Binders,Document Binder,6,148.21,0.25,666.94,93.5
+ORD-10159,CUST-3915,2024-07-14,Illinois,Central,Consumer,Second Class,Office Supplies,Appliances,Coffee Maker,4,12.28,0.15,41.75,9.71
+ORD-10592,CUST-1020,2024-07-16,Michigan,Central,Home Office,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,3,64.21,0.3,134.84,35.03
+ORD-10494,CUST-7976,2024-07-17,Massachusetts,East,Consumer,Standard Class,Furniture,Tables,Work Desk,5,376.57,0.15,1600.42,267.16
+ORD-10367,CUST-8561,2024-07-17,California,West,Consumer,Standard Class,Office Supplies,Art,Drawing Set,7,49.67,0.05,330.31,65.94
+ORD-10558,CUST-8824,2024-07-20,Massachusetts,East,Consumer,First Class,Technology,Machines,Desktop Machine,3,405.96,0.1,1096.09,261.15
+ORD-10036,CUST-1007,2024-07-20,Florida,South,Consumer,Standard Class,Furniture,Chairs,Executive Chair,3,268.67,0.2,644.81,79.71
+ORD-10353,CUST-9573,2024-07-20,Illinois,Central,Consumer,Standard Class,Office Supplies,Storage,Storage Box,1,163.99,0.15,139.39,30.9
+ORD-10593,CUST-7850,2024-07-21,Washington,West,Home Office,Standard Class,Technology,Accessories,Wireless Mouse,5,586.64,0.25,2199.9,412.79
+ORD-10479,CUST-8487,2024-07-22,New York,East,Consumer,First Class,Technology,Phones,Mobile Device Plus,5,148.83,0.2,595.32,98.03
+ORD-10179,CUST-5004,2024-07-24,Ohio,East,Consumer,First Class,Furniture,Tables,Office Table,4,433.59,0.0,1734.36,125.36
+ORD-10211,CUST-9405,2024-07-27,Michigan,Central,Consumer,Standard Class,Technology,Copiers,Office Copier,1,193.73,0.0,193.73,28.44
+ORD-10204,CUST-5190,2024-07-28,Minnesota,Central,Corporate,Standard Class,Furniture,Chairs,Executive Chair,2,79.68,0.0,159.36,14.29
+ORD-10145,CUST-7568,2024-07-30,Illinois,Central,Consumer,Second Class,Technology,Machines,Laser Printer,2,150.04,0.2,240.06,33.9
+ORD-10420,CUST-8965,2024-08-02,Georgia,South,Corporate,Standard Class,Furniture,Chairs,Office Chair,7,176.1,0.15,1047.8,166.75
+ORD-10309,CUST-6727,2024-08-04,Ohio,East,Corporate,Standard Class,Technology,Accessories,Keyboard Pro,8,469.09,0.05,3565.08,635.14
+ORD-10354,CUST-2394,2024-08-07,Minnesota,Central,Home Office,First Class,Office Supplies,Paper,Copy Paper,4,78.15,0.2,250.08,42.73
+ORD-10406,CUST-2157,2024-08-10,Arizona,West,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,4,154.7,0.15,525.98,105.38
+ORD-10051,CUST-5489,2024-08-10,New York,East,Consumer,Second Class,Furniture,Chairs,Office Chair,5,57.92,0.2,231.68,31.13
+ORD-10060,CUST-3667,2024-08-12,North Carolina,South,Consumer,Second Class,Office Supplies,Envelopes,Mailing Envelopes,5,66.34,0.25,248.78,40.43
+ORD-10486,CUST-6061,2024-08-12,New York,East,Corporate,Same Day,Technology,Copiers,Office Copier,1,286.52,0.15,243.54,51.6
+ORD-10130,CUST-3582,2024-08-13,Pennsylvania,East,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,6,426.51,0.25,1919.3,389.48
+ORD-10472,CUST-4446,2024-08-13,North Carolina,South,Home Office,Same Day,Furniture,Chairs,Executive Chair,3,186.66,0.0,559.98,60.03
+ORD-10242,CUST-4388,2024-08-18,Pennsylvania,East,Consumer,Standard Class,Technology,Machines,Laser Printer,1,140.95,0.15,119.81,20.15
+ORD-10379,CUST-1673,2024-08-21,Texas,Central,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,5,119.75,0.0,598.75,71.69
+ORD-10024,CUST-3406,2024-08-30,California,West,Consumer,Standard Class,Office Supplies,Art,Drawing Set,1,110.9,0.0,110.9,21.09
+ORD-10216,CUST-7501,2024-08-31,Pennsylvania,East,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,3,85.44,0.25,192.24,46.62
+ORD-10327,CUST-9365,2024-08-31,Oregon,West,Consumer,Standard Class,Office Supplies,Appliances,Air Purifier,4,82.76,0.25,248.28,40.33
+ORD-10012,CUST-7144,2024-09-01,Pennsylvania,East,Consumer,First Class,Office Supplies,Envelopes,Mailing Envelopes,2,128.18,0.05,243.54,49.3
+ORD-10464,CUST-4029,2024-09-02,Illinois,Central,Consumer,Same Day,Furniture,Chairs,Ergonomic Chair,4,61.46,0.2,196.67,25.23
+ORD-10134,CUST-3395,2024-09-04,Virginia,South,Corporate,Second Class,Furniture,Chairs,Executive Chair,7,59.03,0.1,371.89,74.8
+ORD-10314,CUST-8054,2024-09-09,Michigan,Central,Home Office,Standard Class,Technology,Phones,Mobile Device Plus,7,552.95,0.1,3483.59,526.02
+ORD-10043,CUST-7582,2024-09-10,Oregon,West,Corporate,Second Class,Furniture,Tables,Work Desk,2,403.09,0.3,564.33,85.7
+ORD-10322,CUST-7052,2024-09-12,Illinois,Central,Corporate,Same Day,Office Supplies,Binders,Premium Binder,5,38.42,0.25,144.08,38.17
+ORD-10191,CUST-6413,2024-09-14,New York,East,Home Office,Standard Class,Technology,Phones,Mobile Device Plus,6,429.89,0.25,1934.5,306.74
+ORD-10390,CUST-7774,2024-09-15,Texas,Central,Consumer,Standard Class,Technology,Accessories,Keyboard Pro,1,451.32,0.2,361.06,61.78
+ORD-10455,CUST-6397,2024-09-18,Washington,West,Corporate,Standard Class,Office Supplies,Storage,Storage Box,8,109.9,0.0,879.2,231.62
+ORD-10201,CUST-1511,2024-09-23,Washington,West,Home Office,Second Class,Office Supplies,Paper,Premium Paper,2,99.86,0.25,149.79,27.1
+ORD-10099,CUST-2947,2024-09-23,Texas,Central,Home Office,Standard Class,Furniture,Tables,Work Desk,2,423.7,0.25,635.55,18.54
+ORD-10590,CUST-1104,2024-09-27,Washington,West,Home Office,Standard Class,Office Supplies,Art,Drawing Set,6,175.31,0.3,736.3,127.46
+ORD-10255,CUST-8362,2024-09-30,Massachusetts,East,Consumer,Second Class,Office Supplies,Paper,Premium Paper,3,78.22,0.0,234.66,46.93
+ORD-10514,CUST-9248,2024-09-30,Virginia,South,Consumer,Standard Class,Furniture,Chairs,Office Chair,2,85.35,0.05,162.16,24.3
+ORD-10138,CUST-5927,2024-10-02,California,West,Corporate,Second Class,Technology,Machines,Office Printer,4,503.91,0.3,1410.95,221.95
+ORD-10241,CUST-5295,2024-10-03,New York,East,Consumer,Standard Class,Technology,Accessories,Laptop Stand,1,106.23,0.1,95.61,15.99
+ORD-10596,CUST-8416,2024-10-04,California,West,Consumer,First Class,Technology,Accessories,Keyboard Pro,5,250.64,0.3,877.24,172.3
+ORD-10165,CUST-1594,2024-10-05,Michigan,Central,Consumer,Standard Class,Technology,Copiers,Color Copier,4,239.97,0.05,911.89,130.49
+ORD-10506,CUST-2621,2024-10-08,New York,East,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,7,313.6,0.3,1536.64,194.28
+ORD-10403,CUST-9357,2024-10-09,Washington,West,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,6,252.93,0.0,1517.58,148.36
+ORD-10573,CUST-3163,2024-10-10,Georgia,South,Home Office,Standard Class,Office Supplies,Binders,Premium Binder,4,138.64,0.25,415.92,67.99
+ORD-10182,CUST-7261,2024-10-11,Georgia,South,Consumer,Second Class,Office Supplies,Appliances,Air Purifier,6,12.02,0.05,68.51,15.99
+ORD-10151,CUST-9814,2024-10-12,North Carolina,South,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,4,156.77,0.3,438.96,66.19
+ORD-10063,CUST-1952,2024-10-12,California,West,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,7,87.81,0.15,522.47,48.65
+ORD-10462,CUST-4880,2024-10-13,Pennsylvania,East,Corporate,Second Class,Office Supplies,Paper,Copy Paper,3,59.91,0.1,161.76,22.8
+ORD-10233,CUST-5400,2024-10-16,Georgia,South,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,7,75.93,0.15,451.78,61.93
+ORD-10019,CUST-7286,2024-10-20,Michigan,Central,Consumer,First Class,Office Supplies,Paper,Premium Paper,5,159.77,0.1,718.96,169.78
+ORD-10185,CUST-8754,2024-10-20,Michigan,Central,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,4,329.8,0.15,1121.32,147.08
+ORD-10084,CUST-3730,2024-10-24,Illinois,Central,Home Office,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,2,20.18,0.3,28.25,3.18
+ORD-10116,CUST-3053,2024-10-24,Arizona,West,Home Office,Second Class,Technology,Machines,Office Printer,7,481.89,0.25,2529.92,606.95
+ORD-10328,CUST-7168,2024-10-25,Illinois,Central,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,4,219.98,0.15,747.93,67.39
+ORD-10041,CUST-4108,2024-10-25,Washington,West,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,3,161.22,0.3,338.56,18.63
+ORD-10175,CUST-1797,2024-10-25,Illinois,Central,Consumer,Standard Class,Furniture,Chairs,Office Chair,5,336.85,0.25,1263.19,95.39
+ORD-10413,CUST-4028,2024-10-26,California,West,Corporate,Standard Class,Furniture,Bookcases,Office Bookcase,5,290.96,0.25,1091.1,140.32
+ORD-10176,CUST-9715,2024-10-27,Arizona,West,Corporate,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,3,13.87,0.0,41.61,5.22
+ORD-10054,CUST-1192,2024-10-28,Ohio,East,Corporate,Standard Class,Furniture,Tables,Conference Table,3,174.08,0.25,391.68,50.47
+ORD-10126,CUST-5684,2024-10-29,Michigan,Central,Consumer,Standard Class,Furniture,Chairs,Office Chair,5,405.12,0.1,1823.04,208.91
+ORD-10416,CUST-9538,2024-10-29,Georgia,South,Home Office,First Class,Furniture,Furnishings,Wall Clock,6,62.33,0.3,261.79,30.72
+ORD-10005,CUST-4232,2024-10-30,Michigan,Central,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,1,31.02,0.2,24.82,4.86
+ORD-10221,CUST-1652,2024-11-02,Ohio,East,Home Office,First Class,Technology,Copiers,Office Copier,1,160.58,0.1,144.52,23.31
+ORD-10162,CUST-7506,2024-11-03,Oregon,West,Consumer,Standard Class,Office Supplies,Appliances,Coffee Maker,8,149.33,0.3,836.25,112.24
+ORD-10485,CUST-1551,2024-11-03,New York,East,Home Office,Standard Class,Technology,Accessories,Laptop Stand,7,138.9,0.05,923.68,155.64
+ORD-10561,CUST-7434,2024-11-04,Pennsylvania,East,Corporate,Second Class,Office Supplies,Paper,Copy Paper,4,62.81,0.15,213.55,59.12
+ORD-10243,CUST-7472,2024-11-09,Massachusetts,East,Corporate,Second Class,Office Supplies,Storage,File Cabinet,4,143.3,0.15,487.22,137.85
+ORD-10087,CUST-1002,2024-11-12,Ohio,East,Corporate,Second Class,Office Supplies,Art,Drawing Set,6,118.89,0.05,677.67,136.92
+ORD-10577,CUST-8952,2024-11-14,New York,East,Home Office,Standard Class,Office Supplies,Storage,File Cabinet,6,113.69,0.2,545.71,153.26
+ORD-10111,CUST-9862,2024-11-16,Oregon,West,Consumer,First Class,Office Supplies,Binders,Document Binder,1,19.89,0.25,14.92,4.07
+ORD-10544,CUST-3840,2024-11-21,Florida,South,Consumer,Standard Class,Furniture,Tables,Conference Table,5,145.56,0.15,618.63,76.24
+ORD-10035,CUST-1446,2024-11-21,Oregon,West,Corporate,Standard Class,Technology,Phones,Mobile Device Plus,6,198.13,0.15,1010.46,116.63
+ORD-10375,CUST-3741,2024-11-23,Oregon,West,Corporate,Standard Class,Office Supplies,Envelopes,Business Envelopes,4,42.96,0.05,163.25,27.41
+ORD-10234,CUST-7477,2024-11-25,Arizona,West,Home Office,Standard Class,Office Supplies,Binders,Premium Binder,7,140.91,0.25,739.78,99.1
+ORD-10283,CUST-4376,2024-11-25,Florida,South,Home Office,Standard Class,Office Supplies,Appliances,Air Purifier,3,129.51,0.0,388.53,32.86
+ORD-10292,CUST-4770,2024-11-29,Michigan,Central,Consumer,Second Class,Office Supplies,Storage,Desk Organizer,3,130.37,0.2,312.89,52.22
+ORD-10258,CUST-9436,2024-11-29,Virginia,South,Consumer,Second Class,Technology,Machines,Laser Printer,6,338.01,0.05,1926.66,474.81
+ORD-10429,CUST-2364,2024-11-30,Michigan,Central,Home Office,Standard Class,Furniture,Furnishings,Wall Clock,8,315.55,0.1,2271.96,345.61
+ORD-10540,CUST-3128,2024-12-03,Texas,Central,Consumer,Standard Class,Office Supplies,Appliances,Air Purifier,7,157.01,0.25,824.3,137.28
+ORD-10409,CUST-1614,2024-12-06,Texas,Central,Corporate,Second Class,Office Supplies,Binders,Document Binder,4,113.25,0.0,453.0,112.14
+ORD-10259,CUST-8763,2024-12-07,Oregon,West,Home Office,Standard Class,Technology,Phones,Business Phone Pro,7,681.64,0.05,4532.91,545.79
+ORD-10075,CUST-3433,2024-12-08,New York,East,Consumer,Standard Class,Technology,Phones,Smartphone X,7,491.25,0.2,2751.0,338.77
+ORD-10231,CUST-2769,2024-12-14,Texas,Central,Consumer,Second Class,Technology,Machines,Laser Printer,4,400.2,0.3,1120.56,227.14
+ORD-10073,CUST-6945,2024-12-14,Pennsylvania,East,Consumer,Second Class,Office Supplies,Binders,Premium Binder,8,89.88,0.0,719.04,147.54
+ORD-10067,CUST-7402,2024-12-14,Massachusetts,East,Consumer,First Class,Office Supplies,Paper,Premium Paper,6,28.1,0.0,168.6,31.49
+ORD-10341,CUST-4568,2024-12-15,Minnesota,Central,Home Office,Standard Class,Technology,Phones,Mobile Device Plus,4,667.09,0.3,1867.85,408.63
+ORD-10317,CUST-7014,2024-12-16,Florida,South,Corporate,Standard Class,Technology,Phones,Smartphone X,3,83.53,0.3,175.41,7.7
+ORD-10451,CUST-4396,2024-12-19,Virginia,South,Consumer,Standard Class,Furniture,Tables,Work Desk,5,71.91,0.0,359.55,22.67
+ORD-10482,CUST-5445,2024-12-25,Florida,South,Consumer,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,5,47.99,0.0,239.95,47.32
+ORD-10132,CUST-9961,2024-12-27,Oregon,West,Home Office,Second Class,Technology,Copiers,Color Copier,4,487.6,0.2,1560.32,323.18
+ORD-10120,CUST-2151,2024-12-30,Oregon,West,Consumer,First Class,Furniture,Furnishings,Office Shelf,5,78.87,0.3,276.04,5.14
+ORD-10003,CUST-7463,2025-01-01,Ohio,East,Corporate,Standard Class,Office Supplies,Appliances,Air Purifier,1,55.64,0.1,50.08,10.05
+ORD-10538,CUST-8525,2025-01-01,North Carolina,South,Consumer,Standard Class,Furniture,Tables,Conference Table,4,435.51,0.25,1306.53,132.77
+ORD-10516,CUST-5562,2025-01-05,Arizona,West,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,7,266.53,0.05,1772.42,183.94
+ORD-10438,CUST-9704,2025-01-06,Florida,South,Consumer,Standard Class,Technology,Accessories,USB-C Hub,8,87.09,0.25,522.54,116.17
+ORD-10127,CUST-9737,2025-01-06,Ohio,East,Consumer,Standard Class,Office Supplies,Art,Drawing Set,5,130.01,0.25,487.54,46.69
+ORD-10431,CUST-7386,2025-01-09,Massachusetts,East,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,2,47.51,0.3,66.51,3.86
+ORD-10207,CUST-7030,2025-01-12,Virginia,South,Corporate,First Class,Office Supplies,Storage,Desk Organizer,3,26.16,0.25,58.86,14.01
+ORD-10235,CUST-1420,2025-01-15,New York,East,Consumer,Second Class,Technology,Machines,Office Printer,8,562.62,0.3,3150.67,439.9
+ORD-10548,CUST-6767,2025-01-17,Oregon,West,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,4,70.59,0.2,225.89,41.88
+ORD-10249,CUST-7187,2025-01-19,Georgia,South,Consumer,Second Class,Office Supplies,Paper,Premium Paper,8,19.37,0.25,116.22,17.27
+ORD-10537,CUST-1249,2025-01-22,Pennsylvania,East,Corporate,Standard Class,Office Supplies,Paper,Copy Paper,2,42.24,0.2,67.58,9.83
+ORD-10094,CUST-8951,2025-01-27,Michigan,Central,Consumer,Standard Class,Furniture,Bookcases,Office Bookcase,6,438.93,0.1,2370.22,164.03
+ORD-10281,CUST-2808,2025-01-27,Virginia,South,Consumer,Standard Class,Office Supplies,Art,Drawing Set,8,171.84,0.25,1031.04,203.79
+ORD-10023,CUST-5536,2025-01-29,Arizona,West,Consumer,Second Class,Technology,Phones,Mobile Device Plus,2,561.07,0.3,785.5,109.67
+ORD-10192,CUST-1212,2025-01-29,Oregon,West,Consumer,Standard Class,Technology,Accessories,Wireless Mouse,8,254.72,0.15,1732.1,308.73
+ORD-10320,CUST-8692,2025-01-31,North Carolina,South,Corporate,First Class,Furniture,Tables,Work Desk,2,361.26,0.15,614.14,60.91
+ORD-10414,CUST-4109,2025-02-02,Illinois,Central,Home Office,Second Class,Office Supplies,Envelopes,Mailing Envelopes,5,107.3,0.3,375.55,82.78
+ORD-10027,CUST-3823,2025-02-04,Illinois,Central,Consumer,Second Class,Office Supplies,Appliances,Air Purifier,5,101.25,0.2,405.0,122.08
+ORD-10587,CUST-7056,2025-02-04,Florida,South,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,7,15.58,0.0,109.06,11.45
+ORD-10190,CUST-6191,2025-02-05,New York,East,Home Office,Standard Class,Furniture,Furnishings,Desk Lamp,8,61.04,0.3,341.82,49.4
+ORD-10164,CUST-3605,2025-02-05,Minnesota,Central,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,6,243.47,0.3,1022.57,118.35
+ORD-10232,CUST-4833,2025-02-10,Illinois,Central,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,1,436.81,0.15,371.29,33.47
+ORD-10524,CUST-4190,2025-02-19,Georgia,South,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,5,72.74,0.05,345.52,33.97
+ORD-10339,CUST-7250,2025-02-20,California,West,Corporate,Standard Class,Office Supplies,Appliances,Air Purifier,8,150.27,0.0,1202.16,295.11
+ORD-10203,CUST-1082,2025-02-26,Michigan,Central,Home Office,Standard Class,Furniture,Bookcases,Wood Bookcase,6,402.91,0.05,2296.59,211.09
+ORD-10477,CUST-9511,2025-03-02,Pennsylvania,East,Consumer,Standard Class,Furniture,Tables,Conference Table,2,155.48,0.3,217.67,26.26
+ORD-10287,CUST-6525,2025-03-02,Arizona,West,Corporate,Second Class,Technology,Accessories,Keyboard Pro,5,131.1,0.2,524.4,79.28
+ORD-10598,CUST-2767,2025-03-05,Florida,South,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,8,173.29,0.3,970.42,95.2
+ORD-10288,CUST-1405,2025-03-07,North Carolina,South,Corporate,First Class,Office Supplies,Appliances,Coffee Maker,4,119.17,0.15,405.18,52.55
+ORD-10581,CUST-2372,2025-03-10,Massachusetts,East,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,8,294.1,0.1,2117.52,239.98
+ORD-10214,CUST-8424,2025-03-12,Minnesota,Central,Consumer,First Class,Furniture,Tables,Office Table,2,495.46,0.3,693.64,109.82
+ORD-10022,CUST-1715,2025-03-13,Florida,South,Consumer,Second Class,Furniture,Tables,Office Table,2,246.9,0.3,345.66,19.93
+ORD-10052,CUST-4370,2025-03-14,California,West,Consumer,Standard Class,Office Supplies,Binders,Premium Binder,3,74.23,0.1,200.42,50.34
+ORD-10081,CUST-5252,2025-03-16,Texas,Central,Home Office,Standard Class,Office Supplies,Paper,Premium Paper,5,175.44,0.2,701.76,158.0
+ORD-10101,CUST-2154,2025-03-18,New York,East,Consumer,First Class,Technology,Accessories,Wireless Mouse,4,181.36,0.25,544.08,71.08
+ORD-10008,CUST-4844,2025-03-20,Arizona,West,Consumer,First Class,Office Supplies,Art,Office Art Kit,6,128.5,0.1,693.9,141.05
+ORD-10109,CUST-3705,2025-03-20,Texas,Central,Corporate,Standard Class,Office Supplies,Binders,Document Binder,8,45.72,0.05,347.47,62.3
+ORD-10588,CUST-4746,2025-03-22,Massachusetts,East,Consumer,First Class,Office Supplies,Envelopes,Business Envelopes,6,117.29,0.2,562.99,70.56
+ORD-10528,CUST-6342,2025-03-25,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Binders,Premium Binder,1,171.23,0.15,145.55,25.3
+ORD-10166,CUST-6083,2025-03-26,Minnesota,Central,Consumer,Standard Class,Office Supplies,Binders,Document Binder,6,142.08,0.3,596.74,123.35
+ORD-10560,CUST-8373,2025-03-27,Virginia,South,Home Office,Same Day,Technology,Phones,Smartphone X,3,93.16,0.05,265.51,45.57
+ORD-10092,CUST-9645,2025-03-27,Minnesota,Central,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,2,482.71,0.25,724.06,78.68
+ORD-10000,CUST-3264,2025-04-01,Texas,Central,Corporate,First Class,Furniture,Tables,Work Desk,3,163.97,0.15,418.12,31.05
+ORD-10584,CUST-6205,2025-04-03,Oregon,West,Consumer,Standard Class,Office Supplies,Appliances,Air Purifier,7,165.27,0.05,1099.05,295.32
+ORD-10321,CUST-5126,2025-04-05,North Carolina,South,Corporate,Standard Class,Technology,Copiers,Office Copier,4,210.16,0.15,714.54,145.83
+ORD-10090,CUST-7227,2025-04-06,Florida,South,Home Office,Same Day,Furniture,Tables,Conference Table,7,156.1,0.05,1038.06,136.49
+ORD-10135,CUST-5602,2025-04-09,Minnesota,Central,Consumer,Standard Class,Furniture,Chairs,Office Chair,1,211.78,0.15,180.01,15.07
+ORD-10391,CUST-1904,2025-04-10,Georgia,South,Consumer,Standard Class,Furniture,Chairs,Ergonomic Chair,2,176.83,0.2,282.93,41.12
+ORD-10410,CUST-6343,2025-04-14,Massachusetts,East,Home Office,Standard Class,Technology,Accessories,Laptop Stand,5,666.5,0.2,2666.0,457.14
+ORD-10071,CUST-9074,2025-04-17,Illinois,Central,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,5,402.11,0.3,1407.38,192.62
+ORD-10454,CUST-9697,2025-04-17,Massachusetts,East,Home Office,Standard Class,Technology,Machines,Laser Printer,3,99.74,0.3,209.45,46.27
+ORD-10310,CUST-2489,2025-04-20,Texas,Central,Corporate,Same Day,Technology,Machines,Laser Printer,6,613.6,0.0,3681.6,822.5
+ORD-10133,CUST-2424,2025-04-22,Oregon,West,Consumer,Standard Class,Technology,Phones,Smartphone X,5,86.05,0.2,344.2,46.4
+ORD-10319,CUST-5160,2025-04-24,Washington,West,Corporate,Second Class,Office Supplies,Art,Office Art Kit,2,83.47,0.05,158.59,24.06
+ORD-10285,CUST-7000,2025-04-25,Michigan,Central,Consumer,Second Class,Office Supplies,Binders,Document Binder,7,113.38,0.05,753.98,123.18
+ORD-10513,CUST-4458,2025-04-26,Arizona,West,Consumer,Standard Class,Technology,Copiers,Office Copier,3,350.46,0.0,1051.38,228.99
+ORD-10046,CUST-9039,2025-04-30,Massachusetts,East,Consumer,Standard Class,Technology,Copiers,Office Copier,7,583.49,0.15,3471.77,638.16
+ORD-10457,CUST-5621,2025-05-01,New York,East,Corporate,Second Class,Furniture,Chairs,Ergonomic Chair,8,350.08,0.05,2660.61,350.86
+ORD-10556,CUST-6932,2025-05-03,Michigan,Central,Consumer,Second Class,Technology,Machines,Office Printer,8,354.09,0.05,2691.08,393.34
+ORD-10102,CUST-1414,2025-05-07,Michigan,Central,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,7,71.12,0.3,348.49,28.13
+ORD-10347,CUST-1115,2025-05-07,Arizona,West,Consumer,First Class,Furniture,Tables,Conference Table,3,255.05,0.2,612.12,86.59
+ORD-10246,CUST-1245,2025-05-11,California,West,Consumer,Standard Class,Technology,Copiers,Color Copier,2,445.64,0.0,891.28,184.27
+ORD-10398,CUST-3503,2025-05-12,Texas,Central,Corporate,First Class,Technology,Phones,Smartphone X,6,349.89,0.2,1679.47,373.34
+ORD-10206,CUST-6598,2025-05-12,Massachusetts,East,Corporate,Second Class,Technology,Machines,Laser Printer,5,119.62,0.15,508.38,84.38
+ORD-10026,CUST-3010,2025-05-14,Georgia,South,Corporate,Second Class,Office Supplies,Storage,Storage Box,1,158.55,0.3,110.98,25.07
+ORD-10576,CUST-2549,2025-05-21,Illinois,Central,Corporate,Standard Class,Technology,Machines,Desktop Machine,4,245.79,0.0,983.16,202.74
+ORD-10156,CUST-4130,2025-05-22,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,5,166.63,0.05,791.49,217.88
+ORD-10536,CUST-2980,2025-05-22,Virginia,South,Consumer,Standard Class,Furniture,Tables,Work Desk,4,219.94,0.0,879.76,105.23
+ORD-10303,CUST-3058,2025-05-24,Virginia,South,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,7,118.36,0.2,662.82,106.25
+ORD-10447,CUST-6135,2025-05-24,New York,East,Consumer,Second Class,Technology,Accessories,USB-C Hub,5,515.47,0.25,1933.01,240.09
+ORD-10274,CUST-6902,2025-05-25,California,West,Consumer,Standard Class,Furniture,Chairs,Executive Chair,7,305.04,0.15,1814.99,280.38
+ORD-10193,CUST-8500,2025-05-26,Georgia,South,Consumer,Same Day,Office Supplies,Art,Drawing Set,4,49.13,0.3,137.56,22.46
+ORD-10470,CUST-6383,2025-05-27,Massachusetts,East,Consumer,Second Class,Technology,Machines,Office Printer,8,157.72,0.05,1198.67,217.79
+ORD-10227,CUST-2355,2025-05-27,North Carolina,South,Home Office,Standard Class,Furniture,Bookcases,Wood Bookcase,6,142.02,0.05,809.51,42.28
+ORD-10572,CUST-8932,2025-05-29,California,West,Consumer,Second Class,Furniture,Chairs,Ergonomic Chair,5,295.84,0.2,1183.36,207.03
+ORD-10357,CUST-1082,2025-05-30,Virginia,South,Consumer,Second Class,Furniture,Furnishings,Office Shelf,6,401.89,0.15,2049.64,79.11
+ORD-10004,CUST-2659,2025-05-30,Oregon,West,Home Office,First Class,Office Supplies,Storage,Desk Organizer,2,16.76,0.3,23.46,5.31
+ORD-10291,CUST-1951,2025-05-30,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,4,37.21,0.3,104.19,21.15
+ORD-10244,CUST-8313,2025-06-02,Pennsylvania,East,Consumer,Same Day,Furniture,Furnishings,Office Shelf,2,182.07,0.05,345.93,11.93
+ORD-10048,CUST-5827,2025-06-02,Arizona,West,Consumer,Same Day,Technology,Copiers,Office Copier,6,428.84,0.3,1801.13,291.32
+ORD-10481,CUST-9199,2025-06-04,Michigan,Central,Corporate,Standard Class,Furniture,Tables,Office Table,7,196.06,0.0,1372.42,155.18
+ORD-10412,CUST-6808,2025-06-05,Minnesota,Central,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,3,82.84,0.1,223.67,36.73
+ORD-10426,CUST-6137,2025-06-07,Ohio,East,Consumer,Standard Class,Furniture,Tables,Conference Table,3,184.27,0.05,525.17,39.37
+ORD-10519,CUST-9151,2025-06-16,North Carolina,South,Consumer,Second Class,Office Supplies,Binders,Document Binder,7,22.5,0.05,149.62,31.17
+ORD-10526,CUST-9204,2025-06-18,Texas,Central,Corporate,Second Class,Furniture,Tables,Work Desk,6,271.32,0.25,1220.94,178.15
+ORD-10446,CUST-1681,2025-06-18,New York,East,Corporate,Standard Class,Furniture,Furnishings,Wall Clock,4,114.22,0.1,411.19,32.42
+ORD-10553,CUST-1155,2025-06-21,Massachusetts,East,Corporate,Standard Class,Furniture,Tables,Work Desk,6,327.39,0.25,1473.26,104.21
+ORD-10160,CUST-3249,2025-06-22,California,West,Home Office,Standard Class,Office Supplies,Art,Office Art Kit,1,127.63,0.05,121.25,18.05
+ORD-10017,CUST-1789,2025-06-25,Washington,West,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,7,132.24,0.2,740.54,173.76
+ORD-10177,CUST-7281,2025-06-27,Illinois,Central,Corporate,Standard Class,Furniture,Chairs,Executive Chair,8,297.08,0.0,2376.64,185.24
+ORD-10499,CUST-5430,2025-07-01,California,West,Corporate,Standard Class,Furniture,Tables,Work Desk,6,224.4,0.1,1211.76,39.73
+ORD-10562,CUST-6631,2025-07-03,Texas,Central,Corporate,Standard Class,Office Supplies,Paper,Premium Paper,7,172.86,0.05,1149.52,268.65
+ORD-10508,CUST-1755,2025-07-04,Texas,Central,Consumer,Standard Class,Office Supplies,Storage,Desk Organizer,7,125.19,0.1,788.7,150.9
+ORD-10113,CUST-7989,2025-07-05,Washington,West,Corporate,Standard Class,Technology,Copiers,Color Copier,7,530.47,0.1,3341.96,526.62
+ORD-10381,CUST-5114,2025-07-07,Virginia,South,Consumer,Standard Class,Office Supplies,Storage,File Cabinet,1,44.56,0.2,35.65,5.04
+ORD-10501,CUST-8257,2025-07-07,Washington,West,Corporate,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,7,48.78,0.1,307.31,38.09
+ORD-10279,CUST-8008,2025-07-08,New York,East,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,8,614.65,0.25,3687.9,980.44
+ORD-10305,CUST-6710,2025-07-10,Ohio,East,Corporate,Standard Class,Technology,Copiers,Office Copier,6,194.24,0.1,1048.9,252.38
+ORD-10531,CUST-9330,2025-07-11,Florida,South,Home Office,Standard Class,Office Supplies,Envelopes,Business Envelopes,6,169.82,0.2,815.14,178.32
+ORD-10100,CUST-5173,2025-07-14,Washington,West,Consumer,Same Day,Technology,Copiers,Office Copier,8,344.83,0.2,2206.91,366.42
+ORD-10058,CUST-8283,2025-07-14,Pennsylvania,East,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,5,24.06,0.15,102.26,20.93
+ORD-10442,CUST-5121,2025-07-17,Pennsylvania,East,Consumer,Second Class,Furniture,Chairs,Office Chair,7,113.52,0.05,754.91,103.81
+ORD-10586,CUST-6599,2025-07-21,Oregon,West,Consumer,Standard Class,Office Supplies,Storage,Storage Box,3,156.56,0.3,328.78,52.43
+ORD-10088,CUST-3690,2025-07-26,Texas,Central,Corporate,First Class,Technology,Phones,Business Phone Pro,1,544.7,0.25,408.52,62.48
+ORD-10199,CUST-9413,2025-07-27,Ohio,East,Corporate,Standard Class,Technology,Machines,Desktop Machine,2,210.75,0.2,337.2,54.52
+ORD-10348,CUST-2521,2025-07-31,California,West,Corporate,Standard Class,Technology,Machines,Desktop Machine,7,656.96,0.25,3449.04,577.83
+ORD-10104,CUST-1804,2025-08-01,Arizona,West,Consumer,First Class,Office Supplies,Binders,Document Binder,6,124.05,0.05,707.08,118.78
+ORD-10441,CUST-1392,2025-08-01,Ohio,East,Consumer,Standard Class,Technology,Accessories,USB-C Hub,8,373.5,0.3,2091.6,458.86
+ORD-10018,CUST-2102,2025-08-03,Ohio,East,Corporate,Standard Class,Furniture,Chairs,Executive Chair,4,86.07,0.05,327.07,25.2
+ORD-10042,CUST-2919,2025-08-03,Pennsylvania,East,Consumer,Standard Class,Furniture,Tables,Office Table,1,485.84,0.25,364.38,31.86
+ORD-10478,CUST-8923,2025-08-05,Massachusetts,East,Corporate,Second Class,Furniture,Tables,Office Table,5,391.07,0.25,1466.51,189.31
+ORD-10210,CUST-4246,2025-08-05,Minnesota,Central,Corporate,Standard Class,Furniture,Tables,Work Desk,4,105.32,0.15,358.09,37.13
+ORD-10371,CUST-3302,2025-08-06,Texas,Central,Corporate,Standard Class,Office Supplies,Envelopes,Business Envelopes,7,169.39,0.05,1126.44,238.66
+ORD-10155,CUST-5217,2025-08-07,Oregon,West,Corporate,Second Class,Office Supplies,Envelopes,Mailing Envelopes,5,144.4,0.3,505.4,72.49
+ORD-10312,CUST-9942,2025-08-08,Georgia,South,Home Office,Standard Class,Office Supplies,Appliances,Air Purifier,2,21.5,0.0,43.0,8.54
+ORD-10345,CUST-9423,2025-08-08,California,West,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,3,63.96,0.3,134.32,28.3
+ORD-10313,CUST-7811,2025-08-10,Ohio,East,Consumer,First Class,Furniture,Chairs,Office Chair,2,390.35,0.0,780.7,97.22
+ORD-10089,CUST-3459,2025-08-10,Ohio,East,Corporate,Standard Class,Office Supplies,Appliances,Air Purifier,5,81.17,0.05,385.56,65.41
+ORD-10076,CUST-7672,2025-08-14,Michigan,Central,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,7,8.22,0.25,43.16,10.2
+ORD-10304,CUST-7662,2025-08-15,North Carolina,South,Consumer,Standard Class,Technology,Accessories,USB-C Hub,1,655.93,0.05,623.13,76.85
+ORD-10331,CUST-4624,2025-08-15,Pennsylvania,East,Consumer,Standard Class,Furniture,Chairs,Office Chair,7,463.68,0.3,2272.03,394.22
+ORD-10368,CUST-8173,2025-08-16,Oregon,West,Consumer,Standard Class,Office Supplies,Paper,Copy Paper,8,83.99,0.15,571.13,129.2
+ORD-10144,CUST-3274,2025-08-22,Virginia,South,Home Office,Standard Class,Furniture,Tables,Work Desk,8,358.05,0.15,2434.74,190.57
+ORD-10376,CUST-5069,2025-08-22,Washington,West,Corporate,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,8,90.87,0.2,581.57,121.46
+ORD-10433,CUST-8852,2025-08-23,Michigan,Central,Corporate,Standard Class,Furniture,Furnishings,Office Shelf,2,316.36,0.1,569.45,64.4
+ORD-10520,CUST-8918,2025-08-26,Washington,West,Consumer,Standard Class,Technology,Phones,Smartphone X,5,137.14,0.2,548.56,102.65
+ORD-10542,CUST-1852,2025-08-27,Georgia,South,Corporate,Standard Class,Technology,Phones,Business Phone Pro,7,537.48,0.25,2821.77,443.63
+ORD-10453,CUST-8195,2025-08-28,Arizona,West,Home Office,Standard Class,Technology,Copiers,Color Copier,6,596.16,0.0,3576.96,519.33
+ORD-10040,CUST-2261,2025-08-28,Virginia,South,Consumer,Standard Class,Furniture,Chairs,Executive Chair,3,496.08,0.1,1339.42,73.49
+ORD-10595,CUST-6761,2025-08-30,Michigan,Central,Consumer,Standard Class,Technology,Phones,Smartphone X,5,432.5,0.25,1621.88,315.97
+ORD-10143,CUST-9128,2025-09-02,Virginia,South,Consumer,Same Day,Furniture,Tables,Conference Table,5,308.13,0.05,1463.62,83.39
+ORD-10534,CUST-4344,2025-09-02,Ohio,East,Consumer,Standard Class,Technology,Machines,Laser Printer,7,573.57,0.3,2810.49,315.3
+ORD-10570,CUST-1269,2025-09-03,Oregon,West,Consumer,Standard Class,Technology,Phones,Smartphone X,8,606.04,0.1,4363.49,645.09
+ORD-10215,CUST-6387,2025-09-05,Massachusetts,East,Consumer,Standard Class,Office Supplies,Storage,Desk Organizer,2,155.0,0.2,248.0,46.95
+ORD-10123,CUST-6790,2025-09-08,Washington,West,Home Office,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,7,107.04,0.0,749.28,193.42
+ORD-10333,CUST-3606,2025-09-10,Pennsylvania,East,Corporate,Standard Class,Furniture,Bookcases,Office Bookcase,5,331.56,0.1,1492.02,101.84
+ORD-10365,CUST-5242,2025-09-12,Oregon,West,Home Office,Standard Class,Furniture,Chairs,Ergonomic Chair,2,443.52,0.0,887.04,62.76
+ORD-10009,CUST-5802,2025-09-14,Minnesota,Central,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,2,123.66,0.15,210.22,38.23
+ORD-10364,CUST-5814,2025-09-14,North Carolina,South,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,7,107.33,0.0,751.31,139.76
+ORD-10290,CUST-1873,2025-09-15,California,West,Consumer,Second Class,Office Supplies,Storage,Desk Organizer,5,143.85,0.2,575.4,59.07
+ORD-10469,CUST-1277,2025-09-16,Michigan,Central,Corporate,Standard Class,Technology,Phones,Mobile Device Plus,5,218.55,0.25,819.56,109.76
+ORD-10033,CUST-9244,2025-09-16,North Carolina,South,Consumer,Second Class,Office Supplies,Envelopes,Mailing Envelopes,2,159.37,0.3,223.12,41.72
+ORD-10219,CUST-1655,2025-09-16,Virginia,South,Consumer,Standard Class,Furniture,Chairs,Executive Chair,8,418.79,0.2,2680.26,304.86
+ORD-10539,CUST-3723,2025-09-19,Texas,Central,Consumer,Standard Class,Technology,Machines,Desktop Machine,6,543.39,0.15,2771.29,473.01
+ORD-10377,CUST-7066,2025-09-23,Michigan,Central,Consumer,Standard Class,Technology,Accessories,Keyboard Pro,1,358.61,0.2,286.89,48.83
+ORD-10518,CUST-1447,2025-09-26,Arizona,West,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,4,77.31,0.1,278.32,59.36
+ORD-10181,CUST-5092,2025-09-27,Michigan,Central,Consumer,Standard Class,Office Supplies,Appliances,Air Purifier,3,75.87,0.25,170.71,40.72
+ORD-10492,CUST-2848,2025-09-27,Michigan,Central,Corporate,Standard Class,Office Supplies,Appliances,Air Purifier,7,122.3,0.0,856.1,156.46
+ORD-10013,CUST-8548,2025-09-29,Massachusetts,East,Consumer,Standard Class,Technology,Phones,Mobile Device Plus,5,309.48,0.05,1470.03,179.42
+ORD-10147,CUST-1534,2025-09-30,Arizona,West,Consumer,Standard Class,Technology,Copiers,Office Copier,7,565.7,0.0,3959.9,422.92
+ORD-10425,CUST-6147,2025-10-04,Florida,South,Home Office,Second Class,Technology,Machines,Laser Printer,8,401.42,0.3,2247.95,391.51
+ORD-10267,CUST-5959,2025-10-06,Florida,South,Corporate,First Class,Technology,Copiers,Office Copier,7,265.8,0.25,1395.45,189.16
+ORD-10061,CUST-6996,2025-10-07,Pennsylvania,East,Consumer,Second Class,Furniture,Tables,Conference Table,2,407.52,0.2,652.03,96.58
+ORD-10324,CUST-5241,2025-10-07,Georgia,South,Consumer,Same Day,Office Supplies,Appliances,Air Purifier,6,49.22,0.2,236.26,49.49
+ORD-10106,CUST-2148,2025-10-07,Oregon,West,Consumer,Second Class,Office Supplies,Art,Office Art Kit,7,175.46,0.05,1166.81,319.76
+ORD-10245,CUST-2561,2025-10-10,Washington,West,Corporate,Second Class,Technology,Accessories,Laptop Stand,5,273.82,0.05,1300.64,160.58
+ORD-10504,CUST-9866,2025-10-13,New York,East,Home Office,Standard Class,Technology,Copiers,Office Copier,6,367.4,0.3,1543.08,223.83
+ORD-10228,CUST-4381,2025-10-13,New York,East,Consumer,First Class,Technology,Machines,Laser Printer,5,297.68,0.2,1190.72,196.59
+ORD-10342,CUST-7319,2025-10-14,Florida,South,Corporate,Second Class,Office Supplies,Storage,Storage Box,3,81.12,0.1,219.02,45.45
+ORD-10239,CUST-3622,2025-10-15,Illinois,Central,Consumer,Second Class,Office Supplies,Paper,Premium Paper,5,173.73,0.1,781.78,194.25
+ORD-10059,CUST-7973,2025-10-17,New York,East,Corporate,Second Class,Technology,Phones,Smartphone X,1,361.43,0.05,343.36,45.36
+ORD-10491,CUST-5200,2025-10-17,Pennsylvania,East,Consumer,Standard Class,Technology,Copiers,Office Copier,7,450.17,0.1,2836.07,457.95
+ORD-10459,CUST-2199,2025-10-18,Virginia,South,Consumer,Standard Class,Office Supplies,Paper,Premium Paper,2,158.9,0.15,270.13,50.79
+ORD-10057,CUST-8293,2025-10-20,Michigan,Central,Consumer,Standard Class,Furniture,Chairs,Ergonomic Chair,4,262.19,0.15,891.45,46.13
+ORD-10209,CUST-8786,2025-10-20,Texas,Central,Consumer,Second Class,Furniture,Tables,Conference Table,4,211.02,0.0,844.08,94.96
+ORD-10503,CUST-6450,2025-10-22,Illinois,Central,Consumer,Standard Class,Office Supplies,Art,Drawing Set,5,138.59,0.25,519.71,91.18
+ORD-10074,CUST-8344,2025-10-23,Oregon,West,Home Office,Standard Class,Technology,Accessories,USB-C Hub,7,474.7,0.2,2658.32,626.67
+ORD-10128,CUST-1388,2025-10-23,Texas,Central,Consumer,Standard Class,Furniture,Chairs,Ergonomic Chair,2,91.8,0.05,174.42,19.69
+ORD-10091,CUST-4760,2025-10-24,North Carolina,South,Consumer,Standard Class,Technology,Copiers,Color Copier,6,81.93,0.05,467.0,71.77
+ORD-10436,CUST-3276,2025-10-25,Virginia,South,Corporate,Standard Class,Technology,Accessories,Keyboard Pro,1,560.73,0.15,476.62,82.67
+ORD-10374,CUST-8625,2025-10-28,Virginia,South,Consumer,Second Class,Office Supplies,Paper,Premium Paper,5,144.92,0.05,688.37,165.22
+ORD-10589,CUST-9824,2025-10-31,North Carolina,South,Consumer,Standard Class,Technology,Machines,Office Printer,4,103.61,0.25,310.83,78.12
+ORD-10552,CUST-1009,2025-11-01,Washington,West,Corporate,Standard Class,Technology,Copiers,Color Copier,8,190.54,0.25,1143.24,166.09
+ORD-10401,CUST-1077,2025-11-02,Oregon,West,Consumer,Standard Class,Furniture,Bookcases,Wood Bookcase,5,496.76,0.2,1987.04,275.12
+ORD-10152,CUST-9500,2025-11-05,Washington,West,Home Office,Second Class,Office Supplies,Paper,Copy Paper,3,38.59,0.1,104.19,18.5
+ORD-10034,CUST-7173,2025-11-05,Massachusetts,East,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,6,32.94,0.3,138.35,36.09
+ORD-10393,CUST-9828,2025-11-05,Michigan,Central,Corporate,Standard Class,Office Supplies,Envelopes,Mailing Envelopes,2,168.56,0.25,252.84,29.83
+ORD-10338,CUST-1500,2025-11-07,Virginia,South,Corporate,Standard Class,Furniture,Chairs,Office Chair,1,89.66,0.05,85.18,15.0
+ORD-10271,CUST-6430,2025-11-10,Texas,Central,Consumer,Second Class,Furniture,Bookcases,Wood Bookcase,4,199.4,0.15,677.96,109.55
+ORD-10011,CUST-1703,2025-11-10,Florida,South,Home Office,Standard Class,Furniture,Tables,Work Desk,1,401.22,0.05,381.16,67.15
+ORD-10449,CUST-3009,2025-11-12,Georgia,South,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,3,54.22,0.25,122.0,27.97
+ORD-10344,CUST-5572,2025-11-14,Illinois,Central,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,4,336.82,0.3,943.1,70.41
+ORD-10411,CUST-7055,2025-11-17,Ohio,East,Corporate,Second Class,Technology,Machines,Office Printer,6,121.79,0.0,730.74,148.27
+ORD-10380,CUST-5508,2025-11-19,Illinois,Central,Corporate,Second Class,Technology,Machines,Desktop Machine,7,563.85,0.2,3157.56,612.37
+ORD-10594,CUST-3549,2025-11-23,New York,East,Home Office,Second Class,Furniture,Tables,Work Desk,6,301.02,0.3,1264.28,200.35
+ORD-10555,CUST-6252,2025-11-25,Ohio,East,Home Office,Standard Class,Office Supplies,Appliances,Air Purifier,3,62.98,0.2,151.15,36.63
+ORD-10366,CUST-4726,2025-11-27,Illinois,Central,Home Office,Same Day,Technology,Copiers,Color Copier,5,662.27,0.05,3145.78,480.13
+ORD-10014,CUST-1220,2025-11-29,California,West,Consumer,Second Class,Office Supplies,Paper,Premium Paper,5,75.02,0.2,300.08,59.21
+ORD-10358,CUST-1411,2025-11-30,Pennsylvania,East,Corporate,Second Class,Technology,Phones,Business Phone Pro,4,612.3,0.2,1959.36,362.61
+ORD-10154,CUST-4223,2025-11-30,Pennsylvania,East,Consumer,Standard Class,Furniture,Furnishings,Desk Lamp,6,178.76,0.25,804.42,121.52
+ORD-10045,CUST-2386,2025-12-02,Michigan,Central,Consumer,Standard Class,Furniture,Furnishings,Wall Clock,5,348.82,0.2,1395.28,91.59
+ORD-10490,CUST-9291,2025-12-08,Massachusetts,East,Home Office,Second Class,Furniture,Chairs,Ergonomic Chair,6,181.72,0.25,817.74,49.74
+ORD-10173,CUST-6959,2025-12-10,New York,East,Consumer,Second Class,Technology,Accessories,Wireless Mouse,2,680.86,0.3,953.2,101.54
+ORD-10030,CUST-7359,2025-12-11,Pennsylvania,East,Corporate,Standard Class,Technology,Machines,Desktop Machine,2,421.97,0.0,843.94,173.46
+ORD-10158,CUST-6550,2025-12-12,Virginia,South,Consumer,Second Class,Office Supplies,Paper,Premium Paper,1,64.73,0.0,64.73,12.02
+ORD-10325,CUST-1832,2025-12-12,Ohio,East,Consumer,Standard Class,Technology,Phones,Business Phone Pro,2,121.38,0.25,182.07,23.9
+ORD-10563,CUST-8512,2025-12-16,Oregon,West,Corporate,Standard Class,Furniture,Bookcases,Wood Bookcase,3,403.69,0.15,1029.41,100.62
+ORD-10037,CUST-2119,2025-12-21,Washington,West,Consumer,Standard Class,Office Supplies,Envelopes,Business Envelopes,7,47.53,0.3,232.9,52.39
+ORD-10257,CUST-7289,2025-12-22,Minnesota,Central,Consumer,Second Class,Office Supplies,Appliances,Coffee Maker,3,66.94,0.0,200.82,30.83
+ORD-10515,CUST-7981,2025-12-24,Washington,West,Consumer,Second Class,Technology,Accessories,USB-C Hub,6,199.8,0.2,959.04,180.21
+ORD-10458,CUST-9198,2025-12-28,North Carolina,South,Home Office,Second Class,Technology,Machines,Laser Printer,8,100.69,0.1,724.97,115.98
+ORD-10300,CUST-7264,2025-12-28,Texas,Central,Corporate,Standard Class,Furniture,Tables,Office Table,7,248.19,0.25,1303.0,154.58
+ORD-10082,CUST-6972,2025-12-30,Minnesota,Central,Consumer,Standard Class,Office Supplies,Art,Office Art Kit,8,28.16,0.3,157.7,28.63
