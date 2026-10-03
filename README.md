@@ -1,118 +1,72 @@
-# VEDA Technology – Day 26: Executive KPI Dashboard
+# Day 26 – Executive KPI Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
-This project presents an interactive Executive KPI Dashboard developed using Power BI. The dashboard provides a concise view of business performance through key sales, profitability, order, and margin metrics.
+This project presents a one-page Executive KPI Dashboard developed using Microsoft Power BI.
 
-The solution is designed to help users quickly analyze business performance across different time periods, regions, product categories, and customer segments.
+The dashboard provides a concise management view of sales performance, profitability, order volume, and customer segment performance using an interactive Superstore-style sales dataset.
 
----
-
-## 🎯 Objectives
+## Objectives
 
 - Build a professional one-page executive dashboard.
-- Track key business performance indicators.
-- Analyze sales and profit trends over time.
-- Compare sales performance across categories.
-- Analyze profit across regions.
-- Identify the Top 10 products by sales.
-- Provide interactive filtering using Power BI slicers.
-- Document KPI definitions and calculation logic.
+- Track key business KPIs.
+- Create dynamic filters for interactive analysis.
+- Visualize sales trends and performance across categories and regions.
+- Present KPI definitions clearly.
+- Apply professional dashboard formatting and visual hierarchy.
 
----
-
-## 🛠️ Tools & Technologies
-
-- Power BI Desktop
-- DAX
-- CSV Dataset
-- Power BI Interactive Visualizations
-
----
-
-## 📁 Dataset
-
-The project uses a Superstore-style retail sales dataset containing 600 transactions.
-
-### Key fields
-
-- Order ID
-- Customer ID
-- Order Date
-- State
-- Region
-- Segment
-- Ship Mode
-- Category
-- Sub-Category
-- Product Name
-- Quantity
-- Unit Price
-- Discount
-- Sales
-- Profit
-
----
-
-## 📌 Key KPIs
+## Key KPIs
 
 | KPI | Definition |
 |---|---|
-| Total Sales | Total revenue generated from recorded sales transactions. |
-| Total Profit | Total profit generated from recorded sales transactions. |
-| Total Orders | Number of unique orders based on Order ID. |
-| Profit Margin | Total Profit divided by Total Sales, expressed as a percentage. |
-| Average Order Value | Total Sales divided by Total Orders. |
+| Total Sales | Sum of Sales |
+| Total Profit | Sum of Profit |
+| Total Orders | Distinct Count of Order ID |
+| Profit Margin | Total Profit / Total Sales |
 
----
+## Interactive Filters
 
-## 📈 Dashboard Features
-
-### Executive KPI Cards
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Profit Margin
-
-### Interactive Slicers
+The dashboard includes the following dynamic slicers:
 
 - Year
 - Region
 - Category
 - Segment
 
-### Visual Analysis
+All filters dynamically update the dashboard KPIs and visualizations.
+
+## Dashboard Visuals
 
 - Sales & Profit Trend
 - Sales by Category
 - Profit by Region
-- Top 10 Products by Sales
+- Top 10 Product by Sales
 
----
+## Tools & Technologies
 
-## 🧮 KPI Calculation Logic
+- Microsoft Power BI
+- DAX
+- Excel
+- Data Visualization
+- Business Intelligence
 
-### Profit Margin
+## Dashboard Preview
 
-```text
-Profit Margin = Total Profit ÷ Total Sales × 10
+![Executive KPI Dashboard](Dashboard/executive-kpi-dashboard.png)
 
-Average Order Value = Total Sales ÷ Total Orders
+## Key Learning
 
----
-### 📂 Project Files
+This project improved my understanding of executive dashboard design, KPI selection, interactive filtering, DAX measures, visual storytelling, and professional Power BI formatting.
 
-VEDA_Day26_Executive_KPI_Dashboard.pbix – Power BI dashboard
-VEDA_Day26_Superstore.csv – Dataset
-README.md – Project documentation
+## Project Deliverables
 
-----
+- One-page Executive KPI Dashboard
+- Dynamic KPI calculations
+- Interactive slicers
+- KPI definitions
+- Management-focused visual analysis
+- Power BI dashboard file
 
-### 👩‍💻 Project
+## Author
 
-VEDA Technology – Day 26
-
-Project: Executive KPI Dashboard
-
-Tool: Microsoft Power BI
+** Diya Goel**
